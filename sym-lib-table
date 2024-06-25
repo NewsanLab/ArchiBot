@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "ArchiBot-altium-import")(type "KiCad")(uri "${KIPRJMOD}/ArchiBot-altium-import.kicad_sym")(options "")(descr ""))
+)
