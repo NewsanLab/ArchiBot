@@ -535,6 +535,12 @@
           "show": true
         },
         {
+          "group_by": true,
+          "label": "PartNumber",
+          "name": "PartNumber",
+          "show": true
+        },
+        {
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
@@ -568,6 +574,12 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PurchaseLink",
+          "name": "PurchaseLink",
           "show": false
         }
       ],
@@ -633,6 +645,26 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       "Root"
+    ],
+    [
+      "5cfd787d-4139-413d-942e-6c87b4316b27",
+      "Power"
+    ],
+    [
+      "b884adbc-a8b2-4c02-abce-5cda7e46c7c7",
+      "Archi"
+    ],
+    [
+      "aae10d8b-8927-4742-ab02-19333ce33af9",
+      "Comun"
+    ],
+    [
+      "bb1de5cb-a068-4878-9ae1-6c548462fdae",
+      "Auto"
+    ],
+    [
+      "2971addb-a03b-4f30-bc70-6bc63fae2c84",
+      "Arania"
     ]
   ],
   "text_variables": {
