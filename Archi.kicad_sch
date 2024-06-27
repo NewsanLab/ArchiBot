@@ -3116,7 +3116,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0d1b6906-84d5-4d5f-81a5-3bda8647ff0a")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR018"
 			(at 135.89 52.07 0)
 			(effects
 				(font
@@ -3165,7 +3165,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
-					(reference "#PWR020")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -3180,7 +3180,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "10d87250-79eb-4279-88fe-4ab5e000a3b4")
-		(property "Reference" "C8"
+		(property "Reference" "C7"
 			(at 140.208 51.816 0)
 			(effects
 				(font
@@ -3252,7 +3252,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
-					(reference "C8")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -3267,7 +3267,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "118e3b3d-94fb-45f4-8515-2ddcbcc8c84b")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR015"
 			(at 50.8 53.34 0)
 			(effects
 				(font
@@ -3316,7 +3316,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
-					(reference "#PWR03")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -3331,7 +3331,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "14909df6-9536-4e86-8be8-bfd6ae5b387b")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR017"
 			(at 74.93 81.28 0)
 			(effects
 				(font
@@ -3379,7 +3379,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
-					(reference "#PWR05")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -3394,7 +3394,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "167bd49f-fa92-4f33-b4db-299b7fa48e9c")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR014"
 			(at 48.26 53.34 0)
 			(effects
 				(font
@@ -3443,7 +3443,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
-					(reference "#PWR02")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -3458,7 +3458,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2337c0d4-7338-45e0-939f-fd2ce7c479af")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR013"
 			(at 45.72 53.34 0)
 			(effects
 				(font
@@ -3509,7 +3509,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
-					(reference "#PWR01")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -3524,7 +3524,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2b31d97b-aeaf-4c4f-98b2-2b1bb7cda297")
-		(property "Reference" "J1"
+		(property "Reference" "J3"
 			(at 58.42 52.07 0)
 			(effects
 				(font
@@ -3611,7 +3611,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
-					(reference "J1")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -3627,7 +3627,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "408f13aa-f9c8-4c40-b090-07422859da63")
-		(property "Reference" "J3"
+		(property "Reference" "J5"
 			(at 68.58 46.99 0)
 			(effects
 				(font
@@ -3720,7 +3720,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
-					(reference "J3")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -3735,7 +3735,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59123e71-9d82-4f4b-a7c5-ad2080a36a98")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR019"
 			(at 152.4 69.85 0)
 			(effects
 				(font
@@ -3783,7 +3783,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
-					(reference "#PWR021")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -3798,7 +3798,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "97c363f9-870a-43f2-b2e7-65ad4d8d7ac5")
-		(property "Reference" "U3"
+		(property "Reference" "U2"
 			(at 147.32 54.61 0)
 			(effects
 				(font
@@ -3876,7 +3876,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
-					(reference "U3")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -3891,7 +3891,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9d664b0a-5f55-4f9f-b88d-97c31857627f")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR016"
 			(at 50.8 81.28 0)
 			(effects
 				(font
@@ -3939,7 +3939,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
-					(reference "#PWR04")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -3954,7 +3954,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a23b3dce-fbfe-4a3b-ad33-68c27d1fa0ca")
-		(property "Reference" "J2"
+		(property "Reference" "J4"
 			(at 58.42 80.01 0)
 			(effects
 				(font
@@ -4036,7 +4036,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
-					(reference "J2")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -4137,7 +4137,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e4431a03-9d84-4256-a235-ba3419fad766")
-		(property "Reference" "J4"
+		(property "Reference" "J6"
 			(at 68.58 80.01 0)
 			(effects
 				(font
@@ -4224,7 +4224,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
-					(reference "J4")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -4239,7 +4239,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f0d27a66-6ca8-4232-a5c9-387783c40b5d")
-		(property "Reference" "J8"
+		(property "Reference" "J7"
 			(at 180.34 81.534 0)
 			(effects
 				(font
@@ -4317,7 +4317,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
-					(reference "J8")
+					(reference "J7")
 					(unit 1)
 				)
 			)

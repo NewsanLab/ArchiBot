@@ -1546,7 +1546,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0a4fcd35-175d-4f51-a017-cace14c2d490")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR049"
 			(at 139.7 127 0)
 			(effects
 				(font
@@ -1595,7 +1595,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR043")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -1610,7 +1610,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0b8fd4e8-280d-4d89-870c-27ddb45bfad6")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR050"
 			(at 146.05 63.5 0)
 			(effects
 				(font
@@ -1658,7 +1658,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR044")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -1673,7 +1673,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0bcaa87c-a98a-4d69-93ed-d6d95646a3ba")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR054"
 			(at 146.05 134.62 0)
 			(effects
 				(font
@@ -1721,7 +1721,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR048")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -1736,7 +1736,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0cc9bfb4-4478-42a4-b365-b2d842e9520c")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR052"
 			(at 146.05 99.06 0)
 			(effects
 				(font
@@ -1784,7 +1784,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR046")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -1799,7 +1799,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1d7de3fa-5bb9-4283-8bd7-f297b1470e7b")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR047"
 			(at 139.7 91.44 0)
 			(effects
 				(font
@@ -1848,7 +1848,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR041")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -1863,7 +1863,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "219a82d2-819e-4e30-8f3a-914a84592b0b")
-		(property "Reference" "J14"
+		(property "Reference" "J15"
 			(at 151.13 48.514 0)
 			(effects
 				(font
@@ -1938,7 +1938,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "J14")
+					(reference "J15")
 					(unit 1)
 				)
 			)
@@ -1953,7 +1953,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "309edd53-89e9-4107-b2f0-0e0df340387b")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR048"
 			(at 139.7 109.22 0)
 			(effects
 				(font
@@ -2002,7 +2002,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR042")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -2017,7 +2017,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "30c201c5-4f20-4f3d-9470-88a4b858b480")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR057"
 			(at 165.1 91.44 0)
 			(effects
 				(font
@@ -2066,7 +2066,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR051")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -2081,7 +2081,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "349d4f0c-b52a-48ff-b140-8be1458fed18")
-		(property "Reference" "J15"
+		(property "Reference" "J16"
 			(at 151.13 66.294 0)
 			(effects
 				(font
@@ -2156,7 +2156,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "J15")
+					(reference "J16")
 					(unit 1)
 				)
 			)
@@ -2171,7 +2171,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3f5fa97c-170d-4ce2-94d6-77037a907e7b")
-		(property "Reference" "J23"
+		(property "Reference" "J24"
 			(at 176.53 119.634 0)
 			(effects
 				(font
@@ -2246,7 +2246,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "J23")
+					(reference "J24")
 					(unit 1)
 				)
 			)
@@ -2261,7 +2261,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "47f7814b-726e-4ccc-945e-2fa0c23ddef7")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR044"
 			(at 116.84 104.14 0)
 			(effects
 				(font
@@ -2309,7 +2309,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR038")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -2324,7 +2324,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4b37db37-b0fd-40fe-aee2-667967ebc9d7")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR060"
 			(at 171.45 63.5 0)
 			(effects
 				(font
@@ -2372,7 +2372,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR054")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -2387,7 +2387,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6669f942-db3e-413d-bf91-2bb9ff3db281")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR061"
 			(at 171.45 81.28 0)
 			(effects
 				(font
@@ -2435,7 +2435,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR055")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -2450,7 +2450,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "67040009-689a-4980-b793-511da0a6ef68")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR064"
 			(at 171.45 134.62 0)
 			(effects
 				(font
@@ -2498,7 +2498,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR058")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -2513,7 +2513,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "68693603-f46d-42e8-bc55-46a3395b1cfa")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR053"
 			(at 146.05 116.84 0)
 			(effects
 				(font
@@ -2561,7 +2561,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR047")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -2576,7 +2576,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6afff065-c088-41f9-9d0b-911f9957c92e")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR051"
 			(at 146.05 81.28 0)
 			(effects
 				(font
@@ -2624,7 +2624,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR045")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -2639,7 +2639,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6eb8f90c-8e91-4d33-b680-00df0e47f385")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR046"
 			(at 139.7 73.66 0)
 			(effects
 				(font
@@ -2688,7 +2688,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR040")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -2703,7 +2703,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "71b1fd1b-1cf6-41db-a232-814530414dce")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR063"
 			(at 171.45 116.84 0)
 			(effects
 				(font
@@ -2751,7 +2751,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR057")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -2851,7 +2851,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7c2c0de3-4965-42a4-9f21-ed9e0b504618")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR055"
 			(at 165.1 55.88 0)
 			(effects
 				(font
@@ -2900,7 +2900,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR049")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -2915,7 +2915,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7d514940-6844-413f-aea8-60b5fa734e39")
-		(property "Reference" "J19"
+		(property "Reference" "J20"
 			(at 176.53 48.514 0)
 			(effects
 				(font
@@ -2990,7 +2990,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "J19")
+					(reference "J20")
 					(unit 1)
 				)
 			)
@@ -3005,7 +3005,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "863e469f-1fc3-4167-b704-5944ba53a441")
-		(property "Reference" "J22"
+		(property "Reference" "J23"
 			(at 176.53 101.854 0)
 			(effects
 				(font
@@ -3080,7 +3080,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "J22")
+					(reference "J23")
 					(unit 1)
 				)
 			)
@@ -3095,7 +3095,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "87df38d2-8d01-4401-a681-78dc9445b2a6")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR062"
 			(at 171.45 99.06 0)
 			(effects
 				(font
@@ -3143,7 +3143,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR056")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -3158,7 +3158,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "88c0ee9f-dcf0-44c5-b55f-b63db231c05b")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR059"
 			(at 165.1 127 0)
 			(effects
 				(font
@@ -3207,7 +3207,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR053")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -3222,7 +3222,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "96546151-a04a-4d73-a3ce-56cf87e8db77")
-		(property "Reference" "J20"
+		(property "Reference" "J21"
 			(at 176.53 66.294 0)
 			(effects
 				(font
@@ -3297,7 +3297,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "J20")
+					(reference "J21")
 					(unit 1)
 				)
 			)
@@ -3312,7 +3312,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9679f9c2-9bf6-4fc0-8949-96f316bac782")
-		(property "Reference" "J21"
+		(property "Reference" "J22"
 			(at 176.53 84.074 0)
 			(effects
 				(font
@@ -3387,7 +3387,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "J21")
+					(reference "J22")
 					(unit 1)
 				)
 			)
@@ -3402,7 +3402,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9cd3c11a-ef93-427a-ad4c-cf064d2e8e52")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR045"
 			(at 139.7 55.88 0)
 			(effects
 				(font
@@ -3451,7 +3451,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR039")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -3560,7 +3560,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bfa8f2df-5d17-4e87-95df-d09fc93e2a13")
-		(property "Reference" "J17"
+		(property "Reference" "J18"
 			(at 151.13 101.854 0)
 			(effects
 				(font
@@ -3635,7 +3635,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "J17")
+					(reference "J18")
 					(unit 1)
 				)
 			)
@@ -3650,7 +3650,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c3026bef-5e57-4c27-a2b6-e31592f0bc6b")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR043"
 			(at 116.84 85.09 0)
 			(effects
 				(font
@@ -3699,7 +3699,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR037")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -3714,7 +3714,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c995cb43-a21c-4220-9111-ed1c401f272c")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR056"
 			(at 165.1 73.66 0)
 			(effects
 				(font
@@ -3763,7 +3763,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR050")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -3778,7 +3778,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dd108bcd-5b67-45ee-8ab2-342980ecf22b")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR058"
 			(at 165.1 109.22 0)
 			(effects
 				(font
@@ -3827,7 +3827,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "#PWR052")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -3842,7 +3842,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e1a03471-3dab-4bd2-9f7c-bfb152cf98d8")
-		(property "Reference" "J18"
+		(property "Reference" "J19"
 			(at 151.13 119.634 0)
 			(effects
 				(font
@@ -3917,7 +3917,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "J18")
+					(reference "J19")
 					(unit 1)
 				)
 			)
@@ -3932,7 +3932,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ee9ae8b8-ff2b-421a-b1ba-44b3cb5be0b1")
-		(property "Reference" "J13"
+		(property "Reference" "J14"
 			(at 121.92 80.01 0)
 			(effects
 				(font
@@ -4004,7 +4004,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "J13")
+					(reference "J14")
 					(unit 1)
 				)
 			)
@@ -4019,7 +4019,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f2c90c65-c857-4491-9e21-5c1043badf43")
-		(property "Reference" "J16"
+		(property "Reference" "J17"
 			(at 151.13 84.074 0)
 			(effects
 				(font
@@ -4094,7 +4094,7 @@
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "J16")
+					(reference "J17")
 					(unit 1)
 				)
 			)
