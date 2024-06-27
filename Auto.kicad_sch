@@ -3429,6 +3429,16 @@
 		)
 		(uuid "ffe3a93b-653a-4c40-be58-266c6412e536")
 	)
+	(text "OE\n0: Habilita enables de drivers y salida de registro de desplazamiento, inhabilita salidas a servos\n1: Habilita salidas a servos, inhabilita enables de drivers y salida de registro de desplazamiento"
+		(exclude_from_sim no)
+		(at 52.832 106.172 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b39b97dc-a5c5-47d4-9f34-1660c309e398")
+	)
 	(label "QE"
 		(at 135.89 121.92 0)
 		(fields_autoplaced yes)
