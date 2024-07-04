@@ -5174,7 +5174,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Newsanlib:TerminalBlock_bornier-2_P5.08mm"
+		(property "Footprint" "TerminalBlock_RND:TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal"
 			(at 71.12 140.97 0)
 			(effects
 				(font
