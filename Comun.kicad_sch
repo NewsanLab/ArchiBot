@@ -1531,6 +1531,12 @@
 		)
 	)
 	(junction
+		(at 151.13 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "089bc014-8bc4-41cc-8cb1-5f9cf0749a17")
+	)
+	(junction
 		(at 133.35 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1676,6 +1682,16 @@
 	)
 	(wire
 		(pts
+			(xy 151.13 102.87) (xy 153.67 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b2e58c0-4608-40e1-b931-cc211c544352")
+	)
+	(wire
+		(pts
 			(xy 152.4 90.17) (xy 153.67 90.17)
 		)
 		(stroke
@@ -1693,6 +1709,16 @@
 			(type default)
 		)
 		(uuid "44041bee-e297-43f3-b6ec-e8975b581fa0")
+	)
+	(wire
+		(pts
+			(xy 153.67 107.95) (xy 151.13 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4554729d-84c9-4116-9d3e-77540da5ba3e")
 	)
 	(wire
 		(pts
@@ -1836,7 +1862,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 102.87) (xy 153.67 102.87)
+			(xy 147.32 102.87) (xy 151.13 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2023,6 +2049,16 @@
 			(type default)
 		)
 		(uuid "f98f5761-ee05-4b2a-a5cf-44ea176b2891")
+	)
+	(wire
+		(pts
+			(xy 151.13 107.95) (xy 151.13 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbeb2bb7-3e65-4412-a831-e33a38a1b645")
 	)
 	(text "SELECT\n0: Habilita enables de drivers y salida de registro de desplazamiento, inhabilita salidas a servos\n1: Habilita salidas a servos, inhabilita enables de drivers y salida de registro de desplazamiento"
 		(exclude_from_sim no)
@@ -2273,6 +2309,18 @@
 			(justify left)
 		)
 		(uuid "de6f95bb-2594-4273-8f4c-d6b2a2eb1778")
+	)
+	(hierarchical_label "N_SEL"
+		(shape output)
+		(at 153.67 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f30fe2b7-095a-499f-bc71-2db27427e05a")
 	)
 	(symbol
 		(lib_id "Newsanlib:SN74LV244ADGSR")

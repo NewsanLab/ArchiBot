@@ -178,6 +178,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 127) (xy 179.07 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ada8bbcb-def9-4450-bc4e-9212e35467da")
+	)
+	(wire
+		(pts
 			(xy 138.43 78.74) (xy 179.07 78.74)
 		)
 		(stroke
@@ -804,6 +814,16 @@
 			)
 			(uuid "defde9e7-1e32-43c2-900b-1732986bd39e")
 		)
+		(pin "N_SEL" output
+			(at 172.72 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7cd327ec-62e4-4ded-a317-81a0c0f31ca1")
+		)
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -1169,6 +1189,16 @@
 				(justify left)
 			)
 			(uuid "48632b30-6988-401a-8bf4-86f18829f16f")
+		)
+		(pin "N_SEL" input
+			(at 179.07 127 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "38d7f533-8c18-4f35-bd4b-2603a1e9dff6")
 		)
 		(instances
 			(project "ArchiBot"
