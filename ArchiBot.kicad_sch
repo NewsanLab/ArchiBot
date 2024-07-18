@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Archi Bot")
-		(date "2024-06-24")
-		(rev "1.0")
+		(date "2024-07-18")
+		(rev "1.1")
 	)
 	(lib_symbols)
 	(junction
