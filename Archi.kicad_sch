@@ -3582,7 +3582,7 @@
 				)
 			)
 		)
-		(property "Value" "Power"
+		(property "Value" "Alimentación"
 			(at 60.96 62.23 90)
 			(effects
 				(font
@@ -4205,7 +4205,7 @@
 				)
 			)
 		)
-		(property "Value" "Analog"
+		(property "Value" "Analógico"
 			(at 60.96 87.63 90)
 			(effects
 				(font

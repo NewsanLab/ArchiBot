@@ -2632,8 +2632,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Bluetooth"
-			(at 231.394 52.07 90)
+		(property "Value" "BLUETOOTH"
+			(at 230.886 52.324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
