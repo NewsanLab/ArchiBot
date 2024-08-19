@@ -53,9 +53,6 @@ def stop(sr):
     control_motor(sr, [6, 7], False, False)
 
 def main():
-    # GP6 sck, GP7 MO o MOSI (SPITX en archi), GP2 CLK cualquier pin es el 12 de 74hc595
-    # spi = busio.SPI(board.GP6, MOSI=board.GP7)
-    # latch_pin = digitalio.DigitalInOut(board.GP2)
     sr = adafruit_74hc595.ShiftRegister74HC595(busio.SPI(board.GP6, MOSI=board.GP7), digitalio.DigitalInOut(board.GP2))
     masa = digitalio.DigitalInOut(board.GP18)
     masa.direction = digitalio.Direction.OUTPUT
@@ -65,7 +62,6 @@ def main():
     pwm3 = init_pwm(board.GP5)
     pwm4 = init_pwm(board.GP11)
 
-    # controlan la velocidad del motor pwm
     pwm1.value = True # pin 0, 1
     pwm2.value = True # pin 2, 3
     pwm3.value = True # pin 4, 5
@@ -91,5 +87,3 @@ def main():
             simpleio.tone(board.BUZZER, 370, duration = 0.3)
 
 main()
-# GP6 -> PIN 11 DE 74hc595
-# GP7 -> PIN 14 DE 74hc595
