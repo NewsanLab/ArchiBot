@@ -3572,7 +3572,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2b31d97b-aeaf-4c4f-98b2-2b1bb7cda297")
 		(property "Reference" "J3"
 			(at 58.42 52.07 0)
@@ -3675,7 +3675,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "408f13aa-f9c8-4c40-b090-07422859da63")
 		(property "Reference" "J5"
 			(at 68.58 46.99 0)
@@ -4195,7 +4195,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a23b3dce-fbfe-4a3b-ad33-68c27d1fa0ca")
 		(property "Reference" "J4"
 			(at 58.42 80.01 0)
@@ -4465,7 +4465,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e4431a03-9d84-4256-a235-ba3419fad766")
 		(property "Reference" "J6"
 			(at 68.58 80.01 0)

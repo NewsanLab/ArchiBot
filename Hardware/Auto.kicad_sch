@@ -6590,7 +6590,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "footprints:AMPHENOL_91601-304ALF"
 			(at 228.6 86.36 0)
 			(effects
 				(font
@@ -6599,7 +6599,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/91601.pdf"
 			(at 228.6 86.36 0)
 			(effects
 				(font
@@ -6617,7 +6617,7 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" ""
+		(property "PartNumber" "91601-304ALF"
 			(at 228.6 86.36 0)
 			(effects
 				(font
@@ -6626,7 +6626,7 @@
 				(hide yes)
 			)
 		)
-		(property "PurchaseLink" ""
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/amphenol-cs-fci/91601-304ALF/1540494"
 			(at 228.6 86.36 0)
 			(effects
 				(font

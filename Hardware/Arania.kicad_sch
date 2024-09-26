@@ -149,22 +149,22 @@
 				)
 			)
 		)
-		(symbol "Connector_Generic:Conn_01x10"
+		(symbol "Connector_Generic:Conn_01x03"
 			(pin_names
 				(offset 1.016) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "J"
-				(at 0 12.7 0)
+				(at 0 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "Conn_01x10"
-				(at 0 -15.24 0)
+			(property "Value" "Conn_01x03"
+				(at 0 -5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -189,7 +189,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
 				(at 0 0 0)
 				(effects
 					(font
@@ -216,51 +216,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "Conn_01x10_1_1"
-				(rectangle
-					(start -1.27 -12.573)
-					(end 0 -12.827)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -10.033)
-					(end 0 -10.287)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -7.493)
-					(end 0 -7.747)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -4.953)
-					(end 0 -5.207)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
+			(symbol "Conn_01x03_1_1"
 				(rectangle
 					(start -1.27 -2.413)
 					(end 0 -2.667)
@@ -295,41 +251,8 @@
 					)
 				)
 				(rectangle
-					(start -1.27 5.207)
-					(end 0 4.953)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 7.747)
-					(end 0 7.493)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 10.287)
-					(end 0 10.033)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 11.43)
-					(end 1.27 -13.97)
+					(start -1.27 3.81)
+					(end 1.27 -3.81)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -339,7 +262,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 10.16 0)
+					(at -5.08 2.54 0)
 					(length 3.81)
 					(name "Pin_1"
 						(effects
@@ -357,25 +280,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -12.7 0)
-					(length 3.81)
-					(name "Pin_10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 7.62 0)
+					(at -5.08 0 0)
 					(length 3.81)
 					(name "Pin_2"
 						(effects
@@ -393,7 +298,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 5.08 0)
+					(at -5.08 -2.54 0)
 					(length 3.81)
 					(name "Pin_3"
 						(effects
@@ -403,114 +308,6 @@
 						)
 					)
 					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 3.81)
-					(name "Pin_7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -7.62 0)
-					(length 3.81)
-					(name "Pin_8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -10.16 0)
-					(length 3.81)
-					(name "Pin_9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1185,140 +982,86 @@
 		)
 	)
 	(junction
-		(at 207.01 86.36)
+		(at 105.41 161.29)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "03774684-0245-4393-9b93-1382455fa698")
+		(uuid "150786a6-f391-43bd-821f-f9d2eedcbcd1")
 	)
 	(junction
-		(at 207.01 99.06)
+		(at 99.06 185.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1d5298a1-bbdb-445a-a0a5-3276dc7de99d")
 	)
 	(junction
-		(at 222.25 83.82)
+		(at 105.41 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "46eaac70-45b2-430c-91c1-677949aef8f3")
+		(uuid "43c9bb16-f71d-4fb6-976b-d396ff9f5563")
 	)
 	(junction
-		(at 207.01 73.66)
+		(at 105.41 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4768ec58-d260-4864-ac8a-5f1439ca3422")
+		(uuid "4b77ce03-09e1-4969-9cb7-2a9f32edfd53")
 	)
 	(junction
-		(at 222.25 81.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4ebafc2d-c685-4201-af0b-09bda9c8bc1f")
-	)
-	(junction
-		(at 114.3 71.12)
+		(at 180.34 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "547ca8ad-067d-4b62-8d95-ed626ef74913")
 	)
 	(junction
-		(at 207.01 66.04)
+		(at 105.41 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5526b8d3-538f-463a-979c-e90bc61eba22")
+		(uuid "6b27cd21-4761-46c9-910c-9c86dd25316d")
 	)
 	(junction
-		(at 222.25 73.66)
+		(at 105.41 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6bb98854-cb69-4da4-96d8-65dfd4ca7da0")
+		(uuid "82c842ce-0b0a-4a35-92d6-853520f9434a")
 	)
 	(junction
-		(at 207.01 88.9)
+		(at 105.41 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6dd17f23-ac0c-47f6-b012-11650d6ad85b")
+		(uuid "93390761-3305-4a05-b3cd-d0d17bacff05")
 	)
 	(junction
-		(at 222.25 71.12)
+		(at 105.41 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "718bfc51-9aa4-442d-a438-8662b6a5b19b")
+		(uuid "a8577c88-2638-4239-b21f-b866e1134c5e")
 	)
 	(junction
-		(at 207.01 68.58)
+		(at 105.41 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "71b720ad-dc4d-4877-a8da-73c3e69610db")
+		(uuid "af80359c-c757-4fad-83c0-82ccde34a270")
 	)
 	(junction
-		(at 222.25 86.36)
+		(at 105.41 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7bddfa63-0d90-45cf-9cc8-4dd4bb25bb6e")
+		(uuid "d3c426c6-36df-42d6-a75d-1378f21f95cc")
 	)
 	(junction
-		(at 207.01 78.74)
+		(at 105.41 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7fec84d0-a732-4687-8487-0acd2245052c")
+		(uuid "d3f5a576-34b5-4751-9ee3-982233ebd366")
 	)
 	(junction
-		(at 207.01 81.28)
+		(at 105.41 176.53)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "94833b9c-0ae4-46b3-92e1-1e1e07c171b6")
-	)
-	(junction
-		(at 207.01 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9625b5a7-13ac-4f04-ae5f-ed3bb395be64")
-	)
-	(junction
-		(at 222.25 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9c774342-a70b-46bc-8269-b95e0ca69fa8")
-	)
-	(junction
-		(at 222.25 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a6d920ed-885a-4642-a28d-f792d55067d6")
-	)
-	(junction
-		(at 222.25 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bab248cd-01b2-4933-9632-0eca116292ab")
-	)
-	(junction
-		(at 222.25 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c2ca6fd9-e6c0-4efb-b757-b6258978503c")
-	)
-	(junction
-		(at 207.01 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d21e9c47-b85d-4dd0-ad7f-b917e6fb2290")
-	)
-	(junction
-		(at 207.01 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dc2b08c7-abb7-4785-980b-7bb27babc0d3")
-	)
-	(junction
-		(at 207.01 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e824c1be-f21b-4bb0-aa71-7405d2887e3b")
+		(uuid "f377ee3c-8d37-46b7-80e5-f48f714557ee")
 	)
 	(wire
 		(pts
-			(xy 114.3 69.85) (xy 114.3 71.12)
+			(xy 180.34 72.39) (xy 180.34 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1328,17 +1071,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 73.66) (xy 208.28 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02a24d0b-a10f-42ac-af3c-4dc2ba1d60e5")
-	)
-	(wire
-		(pts
-			(xy 191.77 81.28) (xy 193.04 81.28)
+			(xy 113.03 125.73) (xy 114.3 125.73)
 		)
 		(stroke
 			(width 0)
@@ -1348,37 +1081,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 88.9) (xy 223.52 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a2847c8-15c9-484b-8753-b1f7543b8509")
-	)
-	(wire
-		(pts
-			(xy 207.01 76.2) (xy 208.28 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ac50214-ff5f-42ec-9a3f-357187a84303")
-	)
-	(wire
-		(pts
-			(xy 223.52 86.36) (xy 222.25 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0bdf5861-1df8-4695-b6f2-ecb4ba1f309d")
-	)
-	(wire
-		(pts
-			(xy 101.6 91.44) (xy 102.87 91.44)
+			(xy 167.64 93.98) (xy 168.91 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1388,7 +1091,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 97.79) (xy 213.36 99.06)
+			(xy 105.41 184.15) (xy 105.41 185.42)
 		)
 		(stroke
 			(width 0)
@@ -1398,7 +1101,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 76.2) (xy 193.04 76.2)
+			(xy 113.03 92.71) (xy 114.3 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1408,17 +1111,47 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 78.74) (xy 222.25 81.28)
+			(xy 105.41 45.72) (xy 105.41 62.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1a5bdc32-9e2c-4aa9-a2e0-fe00d03cbf83")
+		(uuid "1397f4cc-b0b4-49e7-a2d9-4f6dbec79e33")
 	)
 	(wire
 		(pts
-			(xy 118.11 85.09) (xy 116.84 85.09)
+			(xy 114.3 95.25) (xy 105.41 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13d579ac-fd38-4df8-a6d8-881ec8a27272")
+	)
+	(wire
+		(pts
+			(xy 113.03 180.34) (xy 113.03 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13eb564a-0271-4515-b97c-c48560fc1b14")
+	)
+	(wire
+		(pts
+			(xy 114.3 64.77) (xy 113.03 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1965d93b-c57e-494a-8afd-bcc3e20d2bf0")
+	)
+	(wire
+		(pts
+			(xy 184.15 87.63) (xy 182.88 87.63)
 		)
 		(stroke
 			(width 0)
@@ -1428,7 +1161,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 77.47) (xy 114.3 78.74)
+			(xy 180.34 80.01) (xy 180.34 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1438,27 +1171,37 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 71.12) (xy 222.25 73.66)
+			(xy 113.03 130.81) (xy 113.03 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2b57713e-f559-4419-823a-f422ce339b78")
+		(uuid "22f934f9-dd80-4176-b331-41a3bef99c3a")
 	)
 	(wire
 		(pts
-			(xy 207.01 66.04) (xy 208.28 66.04)
+			(xy 113.03 163.83) (xy 113.03 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2c3c3a9c-8374-4c26-8617-4860a3ebf465")
+		(uuid "2f4ad0ca-2b9b-45fd-b458-257ba0a52922")
 	)
 	(wire
 		(pts
-			(xy 207.01 97.79) (xy 207.01 99.06)
+			(xy 105.41 161.29) (xy 105.41 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "300581cf-98f6-4c77-b639-4b993ba3b1f0")
+	)
+	(wire
+		(pts
+			(xy 99.06 184.15) (xy 99.06 185.42)
 		)
 		(stroke
 			(width 0)
@@ -1468,77 +1211,127 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 81.28) (xy 208.28 81.28)
+			(xy 105.41 176.53) (xy 105.41 177.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3aaa4332-e204-4bb2-a90d-bb681fd89f0b")
+		(uuid "37b7b9e9-1a1e-491c-9fc1-0341f4297826")
 	)
 	(wire
 		(pts
-			(xy 207.01 78.74) (xy 208.28 78.74)
+			(xy 114.3 81.28) (xy 113.03 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3b6fad7f-64a9-4d91-8938-0bec1c7c20f5")
+		(uuid "41955171-07e0-47f3-abf1-0b46b803ce87")
 	)
 	(wire
 		(pts
-			(xy 207.01 88.9) (xy 207.01 86.36)
+			(xy 99.06 176.53) (xy 99.06 179.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3e2cf3f4-99cc-4bc3-ad44-71a3bd554eac")
+		(uuid "4219a6dd-254d-47bf-9fb8-a28b474f6f06")
 	)
 	(wire
 		(pts
-			(xy 207.01 68.58) (xy 207.01 66.04)
+			(xy 105.41 128.27) (xy 105.41 144.78)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "438ddd60-475d-488c-8806-e2810038cdf9")
+		(uuid "430c1d62-a862-45b7-9349-f9f7d47ab525")
 	)
 	(wire
 		(pts
-			(xy 207.01 83.82) (xy 207.01 81.28)
+			(xy 114.3 130.81) (xy 113.03 130.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4450d5d6-cde3-4cce-9491-e783b0104f80")
+		(uuid "434f7ed4-099f-4903-bb03-d58363932c0f")
 	)
 	(wire
 		(pts
-			(xy 207.01 76.2) (xy 207.01 73.66)
+			(xy 114.3 177.8) (xy 105.41 177.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "44556882-adf2-4c65-a20e-d3dae637cdaa")
+		(uuid "4803c9cf-d9d8-48b4-bae4-99b4c3b3479f")
 	)
 	(wire
 		(pts
-			(xy 207.01 68.58) (xy 208.28 68.58)
+			(xy 105.41 29.21) (xy 105.41 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4c47a000-552b-49c2-ae2f-220a201ab6c4")
+		(uuid "4a038d25-2a74-42e3-8b7d-94b5414880db")
 	)
 	(wire
 		(pts
-			(xy 191.77 73.66) (xy 193.04 73.66)
+			(xy 114.3 144.78) (xy 105.41 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4af336cb-52de-4c65-bb61-d130cba8e931")
+	)
+	(wire
+		(pts
+			(xy 113.03 64.77) (xy 113.03 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50432e98-2f38-4f07-8cba-5c8511cea13c")
+	)
+	(wire
+		(pts
+			(xy 114.3 161.29) (xy 105.41 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50a73150-3ff2-4e19-a4d0-8292959d9593")
+	)
+	(wire
+		(pts
+			(xy 114.3 147.32) (xy 113.03 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52daaccf-b815-4c4c-a6a2-2b8172f16b28")
+	)
+	(wire
+		(pts
+			(xy 99.06 176.53) (xy 105.41 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52ef7e70-fd43-4ad5-905c-24437048cdfe")
+	)
+	(wire
+		(pts
+			(xy 113.03 76.2) (xy 114.3 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1548,37 +1341,27 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 88.9) (xy 222.25 90.17)
+			(xy 114.3 31.75) (xy 113.03 31.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "586baf1f-3ceb-405e-92ff-c77b128a0dcb")
+		(uuid "56363918-2f9a-4f6c-b751-7aefb10fba9b")
 	)
 	(wire
 		(pts
-			(xy 222.25 66.04) (xy 222.25 68.58)
+			(xy 113.03 97.79) (xy 113.03 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5a1d1532-afc4-47fc-aeda-6e303d5f8f67")
+		(uuid "5d9393bd-d0b6-421b-b6a6-5ef4cd54eb44")
 	)
 	(wire
 		(pts
-			(xy 222.25 86.36) (xy 222.25 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f502859-b6be-4af1-9f4c-69494d3a81c6")
-	)
-	(wire
-		(pts
-			(xy 213.36 92.71) (xy 213.36 91.44)
+			(xy 105.41 179.07) (xy 105.41 177.8)
 		)
 		(stroke
 			(width 0)
@@ -1588,27 +1371,27 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 78.74) (xy 207.01 76.2)
+			(xy 114.3 48.26) (xy 113.03 48.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "62ab9f26-a55a-4189-b2a5-5194ec838310")
+		(uuid "6304d2e0-9cdc-4a7a-bba5-58da20288a18")
 	)
 	(wire
 		(pts
-			(xy 207.01 83.82) (xy 208.28 83.82)
+			(xy 105.41 78.74) (xy 105.41 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "65842a37-81e5-421f-b4a7-0361e53ce5a7")
+		(uuid "6357f66d-32cc-43c8-b602-e4169cade2ba")
 	)
 	(wire
 		(pts
-			(xy 207.01 99.06) (xy 207.01 100.33)
+			(xy 99.06 185.42) (xy 99.06 186.69)
 		)
 		(stroke
 			(width 0)
@@ -1618,7 +1401,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 71.12) (xy 114.3 71.12)
+			(xy 182.88 73.66) (xy 180.34 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1628,47 +1411,37 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 71.12) (xy 207.01 68.58)
+			(xy 105.41 62.23) (xy 105.41 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6a65fe1a-0fc0-48e3-96f3-e437e6aeed1d")
+		(uuid "6b94e059-d825-4fc0-a58d-f556d99c0f65")
 	)
 	(wire
 		(pts
-			(xy 222.25 76.2) (xy 223.52 76.2)
+			(xy 114.3 97.79) (xy 113.03 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6aa6e6a0-5fc8-4269-b7ab-f5900be795ce")
+		(uuid "6d7ddf5f-f92b-49fd-a966-03723594600a")
 	)
 	(wire
 		(pts
-			(xy 223.52 66.04) (xy 222.25 66.04)
+			(xy 113.03 48.26) (xy 113.03 49.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6c9eb26a-c20e-4159-b077-b0dda992a3d6")
+		(uuid "73226066-56d8-4877-b212-f14273b3dc76")
 	)
 	(wire
 		(pts
-			(xy 207.01 73.66) (xy 207.01 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6cfa7f43-9bd6-4389-83e6-2d538af3339c")
-	)
-	(wire
-		(pts
-			(xy 191.77 66.04) (xy 193.04 66.04)
+			(xy 113.03 26.67) (xy 114.3 26.67)
 		)
 		(stroke
 			(width 0)
@@ -1678,37 +1451,47 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 66.04) (xy 207.01 64.77)
+			(xy 114.3 114.3) (xy 113.03 114.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7dbad920-07c7-4de8-a645-9a0a6d4165b1")
+		(uuid "7baf59ac-279f-4ab1-9bed-e2943d993770")
 	)
 	(wire
 		(pts
-			(xy 222.25 73.66) (xy 223.52 73.66)
+			(xy 113.03 31.75) (xy 113.03 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7f688d13-07bd-49a7-8536-005f86611e78")
+		(uuid "7df21015-0717-4584-ad3c-fc36b34bd92d")
 	)
 	(wire
 		(pts
-			(xy 207.01 86.36) (xy 208.28 86.36)
+			(xy 114.3 29.21) (xy 105.41 29.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8984aab5-259e-4c29-934d-44048de6e6c9")
+		(uuid "80cf1521-4d7b-4994-95aa-8d5a7888427c")
 	)
 	(wire
 		(pts
-			(xy 191.77 68.58) (xy 193.04 68.58)
+			(xy 105.41 111.76) (xy 105.41 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8556953e-7575-418d-b261-b1a6b0d1e111")
+	)
+	(wire
+		(pts
+			(xy 113.03 43.18) (xy 114.3 43.18)
 		)
 		(stroke
 			(width 0)
@@ -1718,7 +1501,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 85.09) (xy 116.84 86.36)
+			(xy 182.88 87.63) (xy 182.88 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1728,17 +1511,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 71.12) (xy 208.28 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95664c01-8258-49d3-bb1c-1a9019663f1d")
-	)
-	(wire
-		(pts
-			(xy 191.77 71.12) (xy 193.04 71.12)
+			(xy 113.03 59.69) (xy 114.3 59.69)
 		)
 		(stroke
 			(width 0)
@@ -1748,7 +1521,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 82.55) (xy 116.84 82.55)
+			(xy 184.15 85.09) (xy 182.88 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1758,17 +1531,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 68.58) (xy 223.52 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9857e834-e29c-4715-92fa-185cb8085cb1")
-	)
-	(wire
-		(pts
-			(xy 191.77 78.74) (xy 193.04 78.74)
+			(xy 113.03 109.22) (xy 114.3 109.22)
 		)
 		(stroke
 			(width 0)
@@ -1778,77 +1541,47 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 83.82) (xy 222.25 86.36)
+			(xy 113.03 81.28) (xy 113.03 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a04d0052-022a-4f6c-9c1f-fb6801cd139e")
+		(uuid "9dd8ba74-53cf-4475-be13-5b80d2adb24e")
 	)
 	(wire
 		(pts
-			(xy 222.25 71.12) (xy 223.52 71.12)
+			(xy 114.3 78.74) (xy 105.41 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a05e0eab-57f0-4110-82ac-d9e2750546e9")
+		(uuid "a85901fb-356b-4ff3-9f23-67bc64501a2b")
 	)
 	(wire
 		(pts
-			(xy 208.28 88.9) (xy 207.01 88.9)
+			(xy 114.3 62.23) (xy 105.41 62.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a6373bc3-77eb-477c-ade6-8ff2cb515fdc")
+		(uuid "a92b7a2c-293e-4f2f-810c-cb9b3aee8e22")
 	)
 	(wire
 		(pts
-			(xy 207.01 86.36) (xy 207.01 83.82)
+			(xy 113.03 114.3) (xy 113.03 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ab3eb3d4-4199-4f22-9299-935242cfcdec")
+		(uuid "bb8f6453-c25b-4db9-8c52-33422aa1c00f")
 	)
 	(wire
 		(pts
-			(xy 222.25 76.2) (xy 222.25 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "afd29c5c-0c2e-4b16-9204-3c80db91bbe8")
-	)
-	(wire
-		(pts
-			(xy 222.25 78.74) (xy 223.52 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b10005af-cf1f-4334-8b9a-db505abf0a6d")
-	)
-	(wire
-		(pts
-			(xy 222.25 81.28) (xy 222.25 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bab33e7c-62cb-4c45-9a7b-325db267f934")
-	)
-	(wire
-		(pts
-			(xy 191.77 86.36) (xy 193.04 86.36)
+			(xy 113.03 158.75) (xy 114.3 158.75)
 		)
 		(stroke
 			(width 0)
@@ -1858,7 +1591,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 99.06) (xy 207.01 99.06)
+			(xy 105.41 185.42) (xy 99.06 185.42)
 		)
 		(stroke
 			(width 0)
@@ -1868,7 +1601,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 82.55) (xy 116.84 71.12)
+			(xy 182.88 85.09) (xy 182.88 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1878,27 +1611,17 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 81.28) (xy 223.52 81.28)
+			(xy 114.3 111.76) (xy 105.41 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c9d0eff2-5d06-4c79-b5ba-e4e0f6dba86c")
+		(uuid "c6cc43e2-9a10-4bae-8b94-df6f0ae19ea9")
 	)
 	(wire
 		(pts
-			(xy 213.36 91.44) (xy 207.01 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca90db6f-0d20-44ae-929d-cd1418a12f30")
-	)
-	(wire
-		(pts
-			(xy 191.77 83.82) (xy 193.04 83.82)
+			(xy 113.03 142.24) (xy 114.3 142.24)
 		)
 		(stroke
 			(width 0)
@@ -1908,7 +1631,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 96.52) (xy 116.84 97.79)
+			(xy 182.88 99.06) (xy 182.88 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1918,37 +1641,27 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 83.82) (xy 223.52 83.82)
+			(xy 105.41 144.78) (xy 105.41 161.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d86f8506-73e8-443f-b652-b52bf0dc98a4")
+		(uuid "d4e16efb-86c7-449d-8e0b-955ea8b47ace")
 	)
 	(wire
 		(pts
-			(xy 207.01 91.44) (xy 207.01 92.71)
+			(xy 114.3 45.72) (xy 105.41 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dd6706c4-c320-4a65-8f92-611f90f7107a")
+		(uuid "d86fcda8-818b-4ea3-b40a-2c7ecd757f2d")
 	)
 	(wire
 		(pts
-			(xy 207.01 81.28) (xy 207.01 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e06a384c-71b1-46e3-9345-0a1b4fb14ebb")
-	)
-	(wire
-		(pts
-			(xy 107.95 91.44) (xy 109.22 91.44)
+			(xy 173.99 93.98) (xy 175.26 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1958,17 +1671,37 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 68.58) (xy 222.25 71.12)
+			(xy 114.3 163.83) (xy 113.03 163.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e480e086-c621-4872-a727-31a7802c3f0f")
+		(uuid "eb10ad69-27da-4f60-a061-f24c541bce9a")
 	)
 	(wire
 		(pts
-			(xy 114.3 71.12) (xy 114.3 72.39)
+			(xy 113.03 147.32) (xy 113.03 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebbe262a-06a1-4824-97f8-2da6208d2299")
+	)
+	(wire
+		(pts
+			(xy 105.41 29.21) (xy 105.41 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec13580c-d67d-48a6-bb5e-2a310e9fa107")
+	)
+	(wire
+		(pts
+			(xy 180.34 73.66) (xy 180.34 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1978,7 +1711,27 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 88.9) (xy 193.04 88.9)
+			(xy 105.41 95.25) (xy 105.41 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2eb8966-c905-4621-b5ca-7ebb19ee0943")
+	)
+	(wire
+		(pts
+			(xy 114.3 128.27) (xy 105.41 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2f453d5-de75-4810-a681-b7d4ea4b2515")
+	)
+	(wire
+		(pts
+			(xy 113.03 175.26) (xy 114.3 175.26)
 		)
 		(stroke
 			(width 0)
@@ -1988,27 +1741,17 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 88.9) (xy 207.01 91.44)
+			(xy 114.3 180.34) (xy 113.03 180.34)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f8f0a30c-335a-4352-91ce-8e87982bda0d")
-	)
-	(wire
-		(pts
-			(xy 222.25 73.66) (xy 222.25 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fcd712ff-1b99-4cae-9254-10760ea91a36")
+		(uuid "f8f63d50-cb14-4ad0-8d04-de42cd8a9703")
 	)
 	(hierarchical_label "SRV05"
 		(shape input)
-		(at 191.77 71.12 180)
+		(at 113.03 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2020,7 +1763,7 @@
 	)
 	(hierarchical_label "SRV11"
 		(shape input)
-		(at 191.77 73.66 180)
+		(at 113.03 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2032,7 +1775,7 @@
 	)
 	(hierarchical_label "GP15"
 		(shape input)
-		(at 191.77 81.28 180)
+		(at 113.03 125.73 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2044,7 +1787,7 @@
 	)
 	(hierarchical_label "GP13"
 		(shape input)
-		(at 191.77 76.2 180)
+		(at 113.03 92.71 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2056,7 +1799,7 @@
 	)
 	(hierarchical_label "GP16"
 		(shape input)
-		(at 191.77 83.82 180)
+		(at 113.03 142.24 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2068,7 +1811,7 @@
 	)
 	(hierarchical_label "GP17"
 		(shape input)
-		(at 191.77 86.36 180)
+		(at 113.03 158.75 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2080,7 +1823,7 @@
 	)
 	(hierarchical_label "SRV04"
 		(shape input)
-		(at 191.77 68.58 180)
+		(at 113.03 43.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2092,7 +1835,7 @@
 	)
 	(hierarchical_label "LASER"
 		(shape input)
-		(at 101.6 91.44 180)
+		(at 167.64 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2104,7 +1847,7 @@
 	)
 	(hierarchical_label "GP18"
 		(shape input)
-		(at 191.77 88.9 180)
+		(at 113.03 175.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2116,7 +1859,7 @@
 	)
 	(hierarchical_label "SRV03"
 		(shape input)
-		(at 191.77 66.04 180)
+		(at 113.03 26.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2128,7 +1871,7 @@
 	)
 	(hierarchical_label "GP14"
 		(shape input)
-		(at 191.77 78.74 180)
+		(at 113.03 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2139,8 +1882,190 @@
 		(uuid "feecab6f-ac8e-48b8-8a22-cd9e4f1ee414")
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 119.38 144.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1edebd2f-9811-4721-8427-89eac630b4e8")
+		(property "Reference" "J20"
+			(at 118.618 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x03"
+			(at 121.92 146.0499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+			(at 119.38 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/tsm-1xx-xx-xxx-sv-xx-xxx-x-xx-mkt.pdf"
+			(at 119.38 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 119.38 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PartNumber" "TSM-103-01-TM-SV-P-TR"
+			(at 119.38 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e83b1d3-a6a4-422c-82b2-6e9b7e73bc4a")
+		)
+		(pin "2"
+			(uuid "0a299801-06d9-498d-aca7-5d045bf65079")
+		)
+		(pin "3"
+			(uuid "a3ff14f5-6301-4e20-969b-f106b1b26172")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "J20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 119.38 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2b2bb0d6-9cf4-433a-b283-d5419be446c8")
+		(property "Reference" "J19"
+			(at 118.618 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x03"
+			(at 121.92 129.5399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+			(at 119.38 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/tsm-1xx-xx-xxx-sv-xx-xxx-x-xx-mkt.pdf"
+			(at 119.38 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 119.38 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PartNumber" "TSM-103-01-TM-SV-P-TR"
+			(at 119.38 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "99f3bf36-f95c-4cd5-9042-6c5d57533735")
+		)
+		(pin "2"
+			(uuid "37f0245d-efbe-44e3-8ef2-229af4344d53")
+		)
+		(pin "3"
+			(uuid "f3040b24-49f3-4df7-a110-2bd6eed363a8")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "J19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 116.84 97.79 0)
+		(at 182.88 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2148,7 +2073,7 @@
 		(dnp no)
 		(uuid "47f7814b-726e-4ccc-945e-2fa0c23ddef7")
 		(property "Reference" "#PWR044"
-			(at 116.84 104.14 0)
+			(at 182.88 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2157,7 +2082,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 116.84 101.6 0)
+			(at 182.88 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2165,7 +2090,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 97.79 0)
+			(at 182.88 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2173,7 +2098,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 97.79 0)
+			(at 182.88 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2181,7 +2106,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 97.79 0)
+			(at 182.88 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2202,8 +2127,316 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 113.03 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4ea0562f-403d-445c-a458-613d3e5cd838")
+		(property "Reference" "#PWR072"
+			(at 113.03 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 113.03 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 113.03 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 113.03 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "759a6b92-939e-4713-81b5-5f8edbf04249")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "#PWR072")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 119.38 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5006ea9b-0971-48e7-ac77-0a5d2ebb5ec0")
+		(property "Reference" "J18"
+			(at 118.618 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x03"
+			(at 121.92 113.0299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+			(at 119.38 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/tsm-1xx-xx-xxx-sv-xx-xxx-x-xx-mkt.pdf"
+			(at 119.38 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 119.38 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PartNumber" "TSM-103-01-TM-SV-P-TR"
+			(at 119.38 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3931ec15-4665-41ed-9d48-9407ebb3c23c")
+		)
+		(pin "2"
+			(uuid "93483e8a-12eb-4b2a-bf6a-96cd7a008e1c")
+		)
+		(pin "3"
+			(uuid "aed8ba2b-b105-4d3a-b226-50346312f4eb")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "J18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 119.38 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "516c6158-6773-4d35-85c2-d62bf6c508b2")
+		(property "Reference" "J7"
+			(at 118.618 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x03"
+			(at 121.92 46.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+			(at 119.38 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/tsm-1xx-xx-xxx-sv-xx-xxx-x-xx-mkt.pdf"
+			(at 119.38 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 119.38 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PartNumber" "TSM-103-01-TM-SV-P-TR"
+			(at 119.38 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "830fe88e-cfac-4a6d-9792-c9dbb18183c7")
+		)
+		(pin "2"
+			(uuid "455d687c-6679-4af7-8467-66aaf7b0a941")
+		)
+		(pin "3"
+			(uuid "edcd1cfe-a7bb-433d-971c-a45dff9624d9")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 113.03 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5d3d1a4b-6b6a-45ba-9ccc-3a4c57a0ca1c")
+		(property "Reference" "#PWR060"
+			(at 113.03 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 113.03 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 113.03 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 113.03 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "febe9537-9dd8-4a80-8bc4-f84d0ea32e6b")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
-		(at 207.01 64.77 0)
+		(at 105.41 26.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2211,7 +2444,7 @@
 		(dnp no)
 		(uuid "649fb526-9637-4c2d-a50f-919e83101f8a")
 		(property "Reference" "#PWR058"
-			(at 207.01 68.58 0)
+			(at 105.41 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2220,7 +2453,7 @@
 			)
 		)
 		(property "Value" "VOUT"
-			(at 204.978 61.214 0)
+			(at 103.378 23.114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2229,7 +2462,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 207.01 64.77 0)
+			(at 105.41 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2238,7 +2471,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 64.77 0)
+			(at 105.41 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2247,7 +2480,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 64.77 0)
+			(at 105.41 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2268,194 +2501,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x10")
-		(at 213.36 76.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "674e3dac-5a67-4e72-8b57-31c4b93d5ee1")
-		(property "Reference" "J25"
-			(at 212.09 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Alimentacion"
-			(at 215.9 81.026 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical"
-			(at 213.36 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 213.36 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 213.36 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f63060e7-7ed4-435c-b947-6711a1aff401")
-		)
-		(pin "1"
-			(uuid "e071727f-ccea-4cb5-aea5-b36af4c68522")
-		)
-		(pin "5"
-			(uuid "1b10c63c-2802-47f5-8e36-6b297ffeb5c8")
-		)
-		(pin "10"
-			(uuid "4ef60946-7e1f-4732-b5bc-e7a4bb395471")
-		)
-		(pin "7"
-			(uuid "9b06dc28-d01f-462e-b4de-ee85f2563d99")
-		)
-		(pin "6"
-			(uuid "6fe28d58-2cfd-471f-a8e9-8c297c311f2f")
-		)
-		(pin "9"
-			(uuid "9f8ad33f-6674-48e2-8bfc-2cbea807b292")
-		)
-		(pin "3"
-			(uuid "468b71dc-61b7-4488-8255-5c45eab3a2f1")
-		)
-		(pin "8"
-			(uuid "9880cd6c-2065-4c6e-b6c4-bb04f9fc4843")
-		)
-		(pin "4"
-			(uuid "59bf59cd-0005-4f61-8f13-663f2bd2f218")
-		)
-		(instances
-			(project "ArchiBot"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "J25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x10")
-		(at 198.12 76.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6d8f7a28-85e8-476b-a056-cf8ec124afc7")
-		(property "Reference" "J7"
-			(at 197.104 62.992 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Salidas"
-			(at 200.914 78.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical"
-			(at 198.12 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 198.12 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 198.12 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "1ea0349d-5232-4bbf-b803-1468aeb65a70")
-		)
-		(pin "1"
-			(uuid "9a4f0db0-2fb3-4e66-b64d-9e2541b0ae4d")
-		)
-		(pin "5"
-			(uuid "6e71c6a9-7d50-4386-8a0c-425056720111")
-		)
-		(pin "10"
-			(uuid "415da340-60c1-4a9b-af88-8912ac12306b")
-		)
-		(pin "7"
-			(uuid "7929e667-3e99-4b5a-9bb9-5f2cf71d911d")
-		)
-		(pin "6"
-			(uuid "0b42cd3d-b6d8-4916-adad-7dd39d6cc356")
-		)
-		(pin "9"
-			(uuid "116c5302-3910-4010-9189-520f0abce563")
-		)
-		(pin "3"
-			(uuid "53e23e96-9017-43bd-b2be-b49a9f4fd2e5")
-		)
-		(pin "8"
-			(uuid "2eb29c6d-6302-4ba0-8759-ad96b9233243")
-		)
-		(pin "4"
-			(uuid "9213610c-350a-40f5-a745-8d6f4ff60022")
-		)
-		(instances
-			(project ""
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 222.25 90.17 0)
+		(at 113.03 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2463,7 +2510,7 @@
 		(dnp no)
 		(uuid "71b1fd1b-1cf6-41db-a232-814530414dce")
 		(property "Reference" "#PWR063"
-			(at 222.25 96.52 0)
+			(at 113.03 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2472,7 +2519,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 222.25 93.98 0)
+			(at 113.03 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2480,7 +2527,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 222.25 90.17 0)
+			(at 113.03 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2488,7 +2535,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 222.25 90.17 0)
+			(at 113.03 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2496,7 +2543,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 222.25 90.17 0)
+			(at 113.03 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2518,7 +2565,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 105.41 91.44 90)
+		(at 171.45 93.98 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2526,7 +2573,7 @@
 		(dnp no)
 		(uuid "72998f5d-d151-4b7f-85c2-bde4c8ba6a05")
 		(property "Reference" "R18"
-			(at 105.41 89.916 90)
+			(at 171.45 92.456 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2534,7 +2581,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 105.41 92.964 90)
+			(at 171.45 95.504 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2542,7 +2589,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 105.41 91.44 0)
+			(at 171.45 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2551,7 +2598,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
-			(at 105.41 91.44 0)
+			(at 171.45 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2560,7 +2607,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 105.41 91.44 0)
+			(at 171.45 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2569,7 +2616,7 @@
 			)
 		)
 		(property "PartNumber" "RC0603FR-07220RL"
-			(at 105.41 91.44 0)
+			(at 171.45 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2578,7 +2625,7 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-07220RL/727061"
-			(at 105.41 91.44 0)
+			(at 171.45 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2602,34 +2649,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x10")
-		(at 228.6 76.2 0)
+		(lib_id "power:GND")
+		(at 113.03 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "8f3ddfe4-71bc-44b5-97ed-50a389c3e4f9")
-		(property "Reference" "J26"
-			(at 227.33 63.246 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Masa"
-			(at 231.14 77.978 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical"
-			(at 228.6 76.2 0)
+		(uuid "76725dc4-f3a3-44d7-9331-af70fa79d543")
+		(property "Reference" "#PWR062"
+			(at 113.03 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2637,58 +2666,137 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 228.6 76.2 0)
+		(property "Value" "GND"
+			(at 113.03 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 113.03 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 113.03 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 228.6 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d6e50f82-94f5-44b7-b3f3-e1ed64bdb062")
 		)
 		(pin "1"
-			(uuid "7c38947f-bc12-47a6-b902-b82171068747")
-		)
-		(pin "5"
-			(uuid "82f5feb4-74d4-4176-a2c3-d8f807c47b93")
-		)
-		(pin "10"
-			(uuid "a7768518-8144-436e-9273-28f3c260b342")
-		)
-		(pin "7"
-			(uuid "7a383977-4107-492b-a116-b4af273d2705")
-		)
-		(pin "6"
-			(uuid "cba3ea87-9c6a-42ad-a891-e8db9432e31f")
-		)
-		(pin "9"
-			(uuid "4ab26fa1-f2b0-430e-98b0-8f6d3fe1ff86")
-		)
-		(pin "3"
-			(uuid "2e999dcf-c492-4edf-a9a1-6e5404ff0d73")
-		)
-		(pin "8"
-			(uuid "fa3db75a-c7b0-43c4-baf7-57ad65e09c34")
-		)
-		(pin "4"
-			(uuid "bd8c5625-d393-4177-8a21-a4b0753c044f")
+			(uuid "1afaf273-4590-4fce-b46d-bcdfbd5921be")
 		)
 		(instances
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
-					(reference "J26")
+					(reference "#PWR062")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 119.38 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7ab02646-cbaf-42b9-8fa3-e30514532177")
+		(property "Reference" "J16"
+			(at 118.618 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x03"
+			(at 121.92 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+			(at 119.38 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/tsm-1xx-xx-xxx-sv-xx-xxx-x-xx-mkt.pdf"
+			(at 119.38 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 119.38 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PartNumber" "TSM-103-01-TM-SV-P-TR"
+			(at 119.38 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "effb18b7-85c6-48c4-927f-37e661c7ded9")
+		)
+		(pin "2"
+			(uuid "9e81d1b8-7546-4aac-b926-e02315bcc949")
+		)
+		(pin "3"
+			(uuid "f2b8bbba-8414-4c8c-89a8-cf06e9cc6e54")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "J16")
 					(unit 1)
 				)
 			)
@@ -2696,7 +2804,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:MMBT3904")
-		(at 114.3 91.44 0)
+		(at 180.34 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2705,7 +2813,7 @@
 		(fields_autoplaced yes)
 		(uuid "9e7799d5-8742-4a4f-a365-b2b553598d9c")
 		(property "Reference" "Q1"
-			(at 119.38 90.1699 0)
+			(at 185.42 92.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2714,7 +2822,7 @@
 			)
 		)
 		(property "Value" "MMBT3904"
-			(at 119.38 92.7099 0)
+			(at 185.42 95.2499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2723,7 +2831,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 119.38 93.345 0)
+			(at 185.42 95.885 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2734,7 +2842,7 @@
 			)
 		)
 		(property "Datasheet" "https://diotec.com/request/datasheet/mmbt3904.pdf"
-			(at 114.3 91.44 0)
+			(at 180.34 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2744,7 +2852,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 91.44 0)
+			(at 180.34 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2753,7 +2861,7 @@
 			)
 		)
 		(property "PartNumber" "MMBT3904"
-			(at 114.3 91.44 0)
+			(at 180.34 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2762,7 +2870,7 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/diotec-semiconductor/MMBT3904/13163698"
-			(at 114.3 91.44 0)
+			(at 180.34 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2790,7 +2898,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 213.36 95.25 0)
+		(at 105.41 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2798,7 +2906,7 @@
 		(dnp no)
 		(uuid "a1410847-1147-4456-81f9-d87838cebc72")
 		(property "Reference" "C22"
-			(at 213.868 93.726 0)
+			(at 105.918 180.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2807,7 +2915,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 213.868 96.774 0)
+			(at 105.918 183.134 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2816,7 +2924,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 213.36 95.25 0)
+			(at 105.41 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2825,7 +2933,7 @@
 			)
 		)
 		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10B104KB8NNNC_Spec.pdf"
-			(at 213.36 95.25 0)
+			(at 105.41 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2834,7 +2942,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 213.36 95.25 0)
+			(at 105.41 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2843,7 +2951,7 @@
 			)
 		)
 		(property "PartNumber" "CL10B104KB8NNNC"
-			(at 213.36 95.25 0)
+			(at 105.41 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2852,7 +2960,7 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/short/0f3djmh4"
-			(at 213.36 95.25 0)
+			(at 105.41 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2876,8 +2984,99 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 119.38 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a3d62b4e-11de-41e9-9f74-b86fa855e305")
+		(property "Reference" "J15"
+			(at 118.618 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x03"
+			(at 121.92 63.4999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+			(at 119.38 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/tsm-1xx-xx-xxx-sv-xx-xxx-x-xx-mkt.pdf"
+			(at 119.38 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 119.38 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PartNumber" "TSM-103-01-TM-SV-P-TR"
+			(at 119.38 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0bf06d35-34ed-4d62-94c6-b766ce2abf79")
+		)
+		(pin "2"
+			(uuid "34dae9ba-3e4e-471b-9390-e6b0ecc62b0f")
+		)
+		(pin "3"
+			(uuid "42dc8046-5bc5-412b-a73c-dc3898f6e2d7")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "J15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
-		(at 114.3 69.85 0)
+		(at 180.34 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2885,7 +3084,7 @@
 		(dnp no)
 		(uuid "a51bcd9d-6f7f-4877-ad23-31d99372e461")
 		(property "Reference" "#PWR014"
-			(at 114.3 73.66 0)
+			(at 180.34 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2894,7 +3093,7 @@
 			)
 		)
 		(property "Value" "VOUT"
-			(at 112.268 66.294 0)
+			(at 178.308 68.834 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2903,7 +3102,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 114.3 69.85 0)
+			(at 180.34 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2912,7 +3111,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 69.85 0)
+			(at 180.34 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2921,7 +3120,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 69.85 0)
+			(at 180.34 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2943,15 +3142,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 207.01 100.33 0)
+		(at 113.03 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "ce047fb3-ba46-4538-905c-610e37758865")
-		(property "Reference" "#PWR043"
-			(at 207.01 106.68 0)
+		(uuid "a8956d7f-6434-4b77-85c7-db253c13df8d")
+		(property "Reference" "#PWR064"
+			(at 113.03 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2960,7 +3159,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 207.01 104.14 0)
+			(at 113.03 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2968,7 +3167,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 207.01 100.33 0)
+			(at 113.03 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2976,7 +3175,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 100.33 0)
+			(at 113.03 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2984,7 +3183,350 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 100.33 0)
+			(at 113.03 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d4f37fac-533b-46a0-951f-fdbc367c6955")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "#PWR064")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 113.03 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a9bacf20-f4ad-4614-a4a9-f0701428c547")
+		(property "Reference" "#PWR061"
+			(at 113.03 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 113.03 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 113.03 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 113.03 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "502f3ba7-cec5-43e9-bab3-4b62f0115a21")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "#PWR061")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 113.03 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aeedce24-0f9a-4ef1-8a58-11092c47780f")
+		(property "Reference" "#PWR053"
+			(at 113.03 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 113.03 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 113.03 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 113.03 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e51410f-afb8-45ed-a338-c1e346e45610")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 113.03 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "affca2cb-fd3a-40dd-846f-4416f4478885")
+		(property "Reference" "#PWR051"
+			(at 113.03 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 113.03 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 113.03 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 113.03 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6475366a-1809-4a59-94d4-dfbd42decb22")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "#PWR051")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 119.38 161.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c6cfa499-86c4-4032-ae40-03d5936435e4")
+		(property "Reference" "J21"
+			(at 118.618 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x03"
+			(at 121.92 162.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+			(at 119.38 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/tsm-1xx-xx-xxx-sv-xx-xxx-x-xx-mkt.pdf"
+			(at 119.38 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 119.38 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PartNumber" "TSM-103-01-TM-SV-P-TR"
+			(at 119.38 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "504a6d00-9516-40a6-a794-3d0226dace0a")
+		)
+		(pin "2"
+			(uuid "fc94bd87-277a-4798-af60-156a7331287c")
+		)
+		(pin "3"
+			(uuid "8e6bffe6-2538-4e24-848b-3fbc259312a4")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "J21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 99.06 186.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ce047fb3-ba46-4538-905c-610e37758865")
+		(property "Reference" "#PWR043"
+			(at 99.06 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 99.06 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 99.06 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 99.06 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3005,8 +3547,99 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 119.38 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dd14e7e5-11bd-4310-b5d4-dd1771cfbe9b")
+		(property "Reference" "J17"
+			(at 118.618 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x03"
+			(at 121.92 96.5199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+			(at 119.38 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/tsm-1xx-xx-xxx-sv-xx-xxx-x-xx-mkt.pdf"
+			(at 119.38 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 119.38 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PartNumber" "TSM-103-01-TM-SV-P-TR"
+			(at 119.38 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5cb3e2ba-5c79-40c3-bf71-06fb39e4336a")
+		)
+		(pin "2"
+			(uuid "f2bff8e1-00dc-4a97-b85f-c070e1cadf25")
+		)
+		(pin "3"
+			(uuid "6068acf0-ef70-4870-b3f9-8c1a8ccf4fc9")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "J17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
-		(at 114.3 74.93 0)
+		(at 180.34 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3014,7 +3647,7 @@
 		(dnp no)
 		(uuid "ddf25b33-9e46-4847-9fd7-dfc4df0ec1e6")
 		(property "Reference" "C23"
-			(at 110.236 73.406 0)
+			(at 176.276 75.946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3023,7 +3656,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 110.236 76.454 0)
+			(at 176.276 78.994 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3032,7 +3665,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 114.3 74.93 0)
+			(at 180.34 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3041,7 +3674,7 @@
 			)
 		)
 		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10B104KB8NNNC_Spec.pdf"
-			(at 114.3 74.93 0)
+			(at 180.34 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3050,7 +3683,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 114.3 74.93 0)
+			(at 180.34 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3059,7 +3692,7 @@
 			)
 		)
 		(property "PartNumber" "CL10B104KB8NNNC"
-			(at 114.3 74.93 0)
+			(at 180.34 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3068,7 +3701,7 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/short/0f3djmh4"
-			(at 114.3 74.93 0)
+			(at 180.34 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3092,8 +3725,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 113.03 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "deab39d6-cf78-4ea1-88a9-8febb845bfd2")
+		(property "Reference" "#PWR040"
+			(at 113.03 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 113.03 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 113.03 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 113.03 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "53d19292-6632-43e4-b079-10621cbd0bd8")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "#PWR040")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
-		(at 207.01 95.25 0)
+		(at 99.06 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3101,7 +3797,7 @@
 		(dnp no)
 		(uuid "e47d1374-35da-4b6b-bd3d-aff5d221cf6b")
 		(property "Reference" "C21"
-			(at 207.264 93.726 0)
+			(at 99.314 180.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3110,7 +3806,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 207.518 97.028 0)
+			(at 99.568 183.388 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3119,7 +3815,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 207.01 95.25 0)
+			(at 99.06 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3128,7 +3824,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61E106MA73-01.pdf"
-			(at 207.01 95.25 0)
+			(at 99.06 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3137,7 +3833,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 207.01 95.25 0)
+			(at 99.06 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3146,7 +3842,7 @@
 			)
 		)
 		(property "PartNumber" "GRM21BR61E106MA73L"
-			(at 207.01 95.25 0)
+			(at 99.06 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3155,7 +3851,7 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/short/fn2rdqd3"
-			(at 207.01 95.25 0)
+			(at 99.06 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3180,7 +3876,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 114.3 78.74 0)
+		(at 180.34 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3188,7 +3884,7 @@
 		(dnp no)
 		(uuid "ee1a069f-90cc-4fd9-baf1-26814835c810")
 		(property "Reference" "#PWR045"
-			(at 114.3 85.09 0)
+			(at 180.34 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3197,7 +3893,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 114.3 82.55 0)
+			(at 180.34 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3205,7 +3901,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 114.3 78.74 0)
+			(at 180.34 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3213,7 +3909,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 78.74 0)
+			(at 180.34 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3221,7 +3917,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 78.74 0)
+			(at 180.34 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3243,7 +3939,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 123.19 82.55 0)
+		(at 189.23 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3251,7 +3947,7 @@
 		(dnp no)
 		(uuid "ee9ae8b8-ff2b-421a-b1ba-44b3cb5be0b1")
 		(property "Reference" "J14"
-			(at 121.92 80.01 0)
+			(at 187.96 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3260,7 +3956,7 @@
 			)
 		)
 		(property "Value" "LASER"
-			(at 121.92 87.63 0)
+			(at 187.96 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3268,8 +3964,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 123.19 82.55 0)
+		(property "Footprint" "footprints:SAMTEC_SSM-102-L-SV-K-TR"
+			(at 189.23 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3277,8 +3973,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 123.19 82.55 0)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/ssm-1xx-xxx-xx-xx-xx-xx-x-xx-mkt.pdf"
+			(at 189.23 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3287,7 +3983,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 123.19 82.55 0)
+			(at 189.23 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3295,8 +3991,8 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" ""
-			(at 123.19 82.55 0)
+		(property "PartNumber" "SSM-102-L-SV-K-TR"
+			(at 189.23 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3304,8 +4000,8 @@
 				(hide yes)
 			)
 		)
-		(property "PurchaseLink" ""
-			(at 123.19 82.55 0)
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/SSM-102-L-SV-K-TR/7856999"
+			(at 189.23 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3323,6 +4019,251 @@
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
 					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 119.38 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f25ce35f-d274-45dc-a4c5-615863cc62f0")
+		(property "Reference" "J22"
+			(at 118.618 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x03"
+			(at 121.92 179.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+			(at 119.38 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/tsm-1xx-xx-xxx-sv-xx-xxx-x-xx-mkt.pdf"
+			(at 119.38 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 119.38 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PartNumber" "TSM-103-01-TM-SV-P-TR"
+			(at 119.38 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ced39a87-d8ef-4e79-b1ff-609beb0b2fd8")
+		)
+		(pin "2"
+			(uuid "630d2501-1605-44f5-81c3-875c69acd6ec")
+		)
+		(pin "3"
+			(uuid "f578a55c-ca34-4b03-8183-74c74553e99e")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "J22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 119.38 29.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f8913eb9-b0e7-4c88-9c77-bf415ba08c6d")
+		(property "Reference" "J2"
+			(at 118.618 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x03"
+			(at 121.92 30.4799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+			(at 119.38 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/tsm-1xx-xx-xxx-sv-xx-xxx-x-xx-mkt.pdf"
+			(at 119.38 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 119.38 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PartNumber" "TSM-103-01-TM-SV-P-TR"
+			(at 119.38 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5b2f8324-ffc2-49d4-b8b5-83af6ce16697")
+		)
+		(pin "2"
+			(uuid "fed0bded-d236-4b4f-a0ff-44d6044ea53e")
+		)
+		(pin "3"
+			(uuid "24136183-cb9f-4905-8fc4-9fbc54cbd010")
+		)
+		(instances
+			(project ""
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 113.03 181.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fcce9f0b-dba7-480d-96d4-0b70b104f84a")
+		(property "Reference" "#PWR073"
+			(at 113.03 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 113.03 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 113.03 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 113.03 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ba084680-e7c2-469b-99a1-2b2a63ce34b8")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
