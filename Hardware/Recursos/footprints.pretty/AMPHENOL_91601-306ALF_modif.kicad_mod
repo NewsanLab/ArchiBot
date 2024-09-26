@@ -1,4 +1,4 @@
-(footprint "AMPHENOL_91601-306ALF"
+(footprint "AMPHENOL_91601-306ALF_modif"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "AMPHENOL_91601-306ALF"
+	(property "Value" "AMPHENOL_91601-306ALF_modif"
 		(at 4.755 3.965 0)
 		(layer "F.Fab")
 		(uuid "e381d520-2a9e-4eff-8d7c-2d8e65878cd3")
@@ -62,6 +62,138 @@
 		)
 	)
 	(attr smd)
+	(fp_rect
+		(start -6.9 -2.8)
+		(end -5.8 -1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "919cb717-d846-4eb3-b160-2d7121f8ce55")
+	)
+	(fp_rect
+		(start -6.9 1.4)
+		(end -5.8 2.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "3482d1f0-fb0c-4d57-92e2-ac13daaf0081")
+	)
+	(fp_rect
+		(start -4.4 -2.8)
+		(end -3.3 -1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "8335eee3-1fa0-4caa-b41f-b7c438f4347c")
+	)
+	(fp_rect
+		(start -4.4 1.4)
+		(end -3.3 2.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "9ee6ab18-866e-4086-ac3c-5836f1142894")
+	)
+	(fp_rect
+		(start -1.8 -2.8)
+		(end -0.7 -1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "399b2e6d-78b5-415f-8e14-30b2455ef521")
+	)
+	(fp_rect
+		(start -1.8 1.4)
+		(end -0.7 2.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "1098bd31-4529-4805-a986-04dfe1209594")
+	)
+	(fp_rect
+		(start 0.7 -2.8)
+		(end 1.8 -1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "318a1bf9-55d7-4e67-9d79-c594597ae6cd")
+	)
+	(fp_rect
+		(start 0.7 1.4)
+		(end 1.8 2.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "c3a97df0-10e2-43b3-bbb8-4ceb6634f3f5")
+	)
+	(fp_rect
+		(start 3.3 -2.8)
+		(end 4.4 -1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "f0c7f976-f205-43e2-bc69-9f1f325ea52a")
+	)
+	(fp_rect
+		(start 3.3 1.4)
+		(end 4.4 2.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "03e6d7be-201f-4f43-ac9a-9ccdf3903fd7")
+	)
+	(fp_rect
+		(start 5.8 -2.8)
+		(end 6.9 -1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "ac8fb094-2b8e-4579-b19d-c22e2cab1219")
+	)
+	(fp_rect
+		(start 5.8 1.4)
+		(end 6.9 2.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "66081053-b5fd-415a-b77a-d2b634770e6c")
+	)
 	(fp_line
 		(start -7.58 -1.27)
 		(end -7.305 -1.27)
