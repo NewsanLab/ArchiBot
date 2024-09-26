@@ -2801,7 +2801,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-553"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 134.62 102.87 0)
 			(effects
 				(font
@@ -2810,7 +2810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/74LVC1G14.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf"
 			(at 134.62 109.22 0)
 			(effects
 				(font
@@ -2829,7 +2829,7 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "74LVC1G14Z-7"
+		(property "PartNumber" "SN74LVC1G14DCKR"
 			(at 134.62 102.87 0)
 			(effects
 				(font
@@ -2838,7 +2838,7 @@
 				(hide yes)
 			)
 		)
-		(property "PurchaseLink" "https://www.digikey.com/short/hzhpb2tz"
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LVC1G14DCKR/385725"
 			(at 134.62 102.87 0)
 			(effects
 				(font
