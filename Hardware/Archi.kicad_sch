@@ -6,8 +6,9 @@
 	(paper "A4")
 	(title_block
 		(title "Archi Bot")
-		(date "2024-07-18")
-		(rev "1.1")
+		(date "2024-09-27")
+		(rev "1.2")
+		(company "Newsan")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x06"

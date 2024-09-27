@@ -6,8 +6,9 @@
 	(paper "A4")
 	(title_block
 		(title "Archi Bot")
-		(date "2024-07-18")
-		(rev "1.1")
+		(date "2024-09-27")
+		(rev "1.2")
+		(company "Newsan")
 	)
 	(lib_symbols
 		(symbol "2024-09-06_13-56-18:2060-452_998-404"
@@ -6621,7 +6622,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "HC-SR04"
+		(property "Value" "DISTANCIA"
 			(at 226.822 94.234 0)
 			(effects
 				(font
