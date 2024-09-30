@@ -1,0 +1,42 @@
+{
+    "layout": {
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "rows": "2",
+        "cols": "2",
+        "vbonecut": "False"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "15mm",
+        "hwidth": "10mm"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "clearance": "1.5mm",
+        "layer": "0"
+    },
+    "framing": {
+        "type": "railstb"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "2.5mm",
+        "voffset": "2.5mm",
+        "size": "3.2mm",
+        "soldermaskmargin": "0.5mm"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "10mm",
+        "voffset": "2.5mm",
+        "opening": "2mm"
+    },
+    "copperfill": {
+        "type": "solid",
+        "edgeclearance": "1mm"
+    },
+    "post": {
+        "millradius": "1mm"
+    }
+}
