@@ -11,6 +11,108 @@
 		(company "Newsan")
 	)
 	(lib_symbols
+		(symbol "Connector:TestPoint"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.762) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector_Generic:Conn_01x06"
 			(pin_names
 				(offset 1.016) hide)
@@ -2110,6 +2212,12 @@
 		(uuid "8dcd10fc-490c-409f-a692-8f8d91929b59")
 	)
 	(junction
+		(at 50.8 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b38f41c0-0347-4823-936a-094d4555388a")
+	)
+	(junction
 		(at 137.16 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2194,6 +2302,16 @@
 			(type default)
 		)
 		(uuid "0e50c491-b51f-4f73-90ee-8a88930a6577")
+	)
+	(wire
+		(pts
+			(xy 50.8 52.07) (xy 50.8 62.23)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "0ea238ad-c4ae-4e67-9adf-a4f721517bae")
 	)
 	(wire
 		(pts
@@ -2297,7 +2415,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 49.53) (xy 50.8 62.23)
+			(xy 50.8 49.53) (xy 50.8 52.07)
 		)
 		(stroke
 			(width 0)
@@ -2577,6 +2695,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 50.8) (xy 53.34 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af07215a-dfce-45b7-945a-fb333c0df9f2")
+	)
+	(wire
+		(pts
 			(xy 52.07 90.17) (xy 53.34 90.17)
 		)
 		(stroke
@@ -2604,6 +2732,16 @@
 			(type default)
 		)
 		(uuid "b6f6cd1c-642e-4647-92bd-d912346e2b11")
+	)
+	(wire
+		(pts
+			(xy 53.34 52.07) (xy 50.8 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b720e37c-a09d-41ad-b304-5a77708f784f")
 	)
 	(wire
 		(pts
@@ -3812,6 +3950,75 @@
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
 					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 53.34 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5089cc8f-4a8f-4d53-a3ce-6c8966b3e507")
+		(property "Reference" "TP29"
+			(at 55.88 46.2279 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 55.88 48.7679 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 58.42 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 53.34 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f96a7319-2d0b-4a02-b3bb-d9169e0f3896")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b884adbc-a8b2-4c02-abce-5cda7e46c7c7"
+					(reference "TP29")
 					(unit 1)
 				)
 			)

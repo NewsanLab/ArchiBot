@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 3.2,
-          "width": 3.2
+          "drill": 0.0,
+          "height": 1.0,
+          "width": 1.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -505,9 +505,9 @@
       "plot": "outputs/Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "outputs/ArchiBot.step",
+      "step": "outputs/ArchiBot_1.2.step",
       "svg": "",
-      "vrml": "outputs/ArchiBot_1.1_3d.wrl"
+      "vrml": "outputs/ArchiBot_1.2_3d.wrl"
     },
     "page_layout_descr_file": "C:/Users/instalador/Documents/HALTER/02_Templates/01_PCB/00_Kicad/Newsan.kicad_wks"
   },
@@ -556,7 +556,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,

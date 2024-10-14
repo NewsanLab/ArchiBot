@@ -11,6 +11,108 @@
 		(company "Newsan")
 	)
 	(lib_symbols
+		(symbol "Connector:TestPoint"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.762) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
 				(offset 1.016) hide)
@@ -1055,6 +1157,12 @@
 		(uuid "d3f5a576-34b5-4751-9ee3-982233ebd366")
 	)
 	(junction
+		(at 182.88 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f2aae518-cc72-42e5-b986-485385ad1a7e")
+	)
+	(junction
 		(at 105.41 176.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1750,6 +1858,16 @@
 		)
 		(uuid "f8f63d50-cb14-4ad0-8d04-de42cd8a9703")
 	)
+	(wire
+		(pts
+			(xy 181.61 87.63) (xy 182.88 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa2c7102-2d19-46f4-940c-7c1aeea0b869")
+	)
 	(hierarchical_label "SRV05"
 		(shape input)
 		(at 113.03 59.69 180)
@@ -1910,7 +2028,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR_modif"
 			(at 119.38 144.78 0)
 			(effects
 				(font
@@ -1974,6 +2092,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 181.61 87.63 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1fb07d12-5aba-4a23-85e2-dc74bb485049")
+		(property "Reference" "TP28"
+			(at 177.0379 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 179.5779 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 181.61 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 181.61 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 181.61 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b1a7e11a-111d-4ef0-8565-da337afcd57e")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/2971addb-a03b-4f30-bc70-6bc63fae2c84"
+					(reference "TP28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
 		(at 119.38 128.27 0)
 		(unit 1)
@@ -2001,7 +2188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR_modif"
 			(at 119.38 128.27 0)
 			(effects
 				(font
@@ -2218,7 +2405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR_modif"
 			(at 119.38 111.76 0)
 			(effects
 				(font
@@ -2309,7 +2496,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR_modif"
 			(at 119.38 45.72 0)
 			(effects
 				(font
@@ -2740,7 +2927,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR_modif"
 			(at 119.38 78.74 0)
 			(effects
 				(font
@@ -3012,7 +3199,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR_modif"
 			(at 119.38 62.23 0)
 			(effects
 				(font
@@ -3421,7 +3608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR_modif"
 			(at 119.38 161.29 0)
 			(effects
 				(font
@@ -3575,7 +3762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR_modif"
 			(at 119.38 95.25 0)
 			(effects
 				(font
@@ -3965,7 +4152,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints:SAMTEC_SSM-102-L-SV-K-TR"
+		(property "Footprint" "footprints:SAMTEC_SSM-102-L-SV-K-TR_modif"
 			(at 189.23 85.09 0)
 			(effects
 				(font
@@ -4053,7 +4240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR_modif"
 			(at 119.38 177.8 0)
 			(effects
 				(font
@@ -4144,7 +4331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR"
+		(property "Footprint" "footprints:SAMTEC_TSM-103-01-TM-SV-P-TR_modif"
 			(at 119.38 29.21 0)
 			(effects
 				(font
