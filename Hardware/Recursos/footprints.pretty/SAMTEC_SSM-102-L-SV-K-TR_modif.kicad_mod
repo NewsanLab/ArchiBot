@@ -61,21 +61,10 @@
 			)
 		)
 	)
-	(attr smd)
+	(attr through_hole)
 	(fp_rect
-		(start -1.7 -2.55)
-		(end -0.8 -1.35)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.Paste")
-		(uuid "0dc28f06-4025-4f33-a009-c9d25649eb67")
-	)
-	(fp_rect
-		(start -1.7 1.3)
-		(end -0.8 2.5)
+		(start -1.75 1.2)
+		(end -0.85 2.4)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -85,8 +74,19 @@
 		(uuid "498a3a1b-d4ed-423b-a284-893575f74598")
 	)
 	(fp_rect
-		(start 0.8 -2.55)
-		(end 1.7 -1.35)
+		(start -1.7 -2.4)
+		(end -0.8 -1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "0dc28f06-4025-4f33-a009-c9d25649eb67")
+	)
+	(fp_rect
+		(start 0.8 -2.4)
+		(end 1.7 -1.2)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -96,8 +96,8 @@
 		(uuid "234a9129-e88c-49dc-9f74-d2db23782d74")
 	)
 	(fp_rect
-		(start 0.8 1.3)
-		(end 1.7 2.5)
+		(start 0.8 1.2)
+		(end 1.7 2.4)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -159,7 +159,7 @@
 	)
 	(fp_rect
 		(start -1.9 -2.7)
-		(end -0.7 -1.3)
+		(end -0.7 -1.1)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -169,7 +169,7 @@
 		(uuid "1f50641e-f6af-4fb5-b852-cc740bf83489")
 	)
 	(fp_rect
-		(start -1.9 1.2)
+		(start -1.9 1.1)
 		(end -0.7 2.6)
 		(stroke
 			(width 0.1)
@@ -181,7 +181,7 @@
 	)
 	(fp_rect
 		(start 0.7 -2.7)
-		(end 1.9 -1.3)
+		(end 1.9 -1.1)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -191,7 +191,7 @@
 		(uuid "0a942575-8f88-42b5-9ae5-51abcfdf2af1")
 	)
 	(fp_rect
-		(start 0.7 1.2)
+		(start 0.7 1.1)
 		(end 1.9 2.6)
 		(stroke
 			(width 0.1)
@@ -303,7 +303,7 @@
 		(at 1.27 0)
 		(size 1.6 1.6)
 		(drill 1.1)
-		(layers "*.Cu" "*.Mask")
+		(layers "*.Cu" "*.Mask" "F.Paste")
 		(remove_unused_layers no)
 		(solder_mask_margin 0.102)
 		(uuid "5c858873-5830-4dff-bd5a-6d7049f91f9e")
@@ -319,7 +319,7 @@
 		(at -1.27 0)
 		(size 1.6 1.6)
 		(drill 1.1)
-		(layers "*.Cu" "*.Mask")
+		(layers "*.Cu" "*.Mask" "F.Paste")
 		(remove_unused_layers no)
 		(solder_mask_margin 0.102)
 		(uuid "c1901b80-7bc8-4c6c-b3f0-e553a8002bb0")
