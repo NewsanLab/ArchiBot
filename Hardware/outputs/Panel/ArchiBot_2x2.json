@@ -9,7 +9,7 @@
     "tabs": {
         "type": "fixed",
         "vwidth": "15mm",
-        "hwidth": "10mm"
+        "hwidth": "15mm"
     },
     "cuts": {
         "type": "vcuts",
@@ -17,19 +17,22 @@
         "layer": "0"
     },
     "framing": {
-        "type": "railstb"
+        "type": "tightframe",
+        "hspace": "5mm",
+        "vspace": "5mm",
+        "fillet": "3mm"
     },
     "tooling": {
         "type": "4hole",
-        "hoffset": "2.5mm",
-        "voffset": "2.5mm",
+        "hoffset": "5mm",
+        "voffset": "5mm",
         "size": "3.2mm",
         "soldermaskmargin": "0.5mm"
     },
     "fiducials": {
         "type": "3fid",
-        "hoffset": "10mm",
-        "voffset": "2.5mm",
+        "hoffset": "15mm",
+        "voffset": "5mm",
         "opening": "2mm"
     },
     "copperfill": {
