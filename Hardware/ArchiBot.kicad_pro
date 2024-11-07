@@ -502,14 +502,14 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "outputs/Gerber/",
+      "plot": "outputs/plots/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "outputs/ArchiBot_1.2.step",
       "svg": "",
       "vrml": "outputs/ArchiBot_1.2_3d.wrl"
     },
-    "page_layout_descr_file": "C:/Users/instalador/Documents/HALTER/02_Templates/01_PCB/00_Kicad/Newsan.kicad_wks"
+    "page_layout_descr_file": "Newsan.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
