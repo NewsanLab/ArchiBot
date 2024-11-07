@@ -2646,6 +2646,18 @@
 		(uuid "af1e3fb4-bcb9-452b-9435-6cbf0a5affe4")
 	)
 	(junction
+		(at 142.24 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b7cd821d-1830-49f8-b67b-419ed53edff5")
+	)
+	(junction
+		(at 157.48 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ca010d3c-4cd0-4b78-b28b-df87004c61fb")
+	)
+	(junction
 		(at 165.1 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2946,6 +2958,16 @@
 			(type default)
 		)
 		(uuid "37efca23-6eec-4ab1-9781-47778de12fad")
+	)
+	(wire
+		(pts
+			(xy 140.97 118.11) (xy 142.24 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ae2fc59-36b0-42be-bbf9-97266f59653a")
 	)
 	(wire
 		(pts
@@ -3556,6 +3578,16 @@
 			(type default)
 		)
 		(uuid "b962f0dd-3ce6-4396-b367-34023e7dfaf0")
+	)
+	(wire
+		(pts
+			(xy 157.48 118.11) (xy 158.75 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c56e7427-fce1-4bf9-81ec-83247db279d1")
 	)
 	(wire
 		(pts
@@ -6114,6 +6146,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 140.97 118.11 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2354bd48-b6bf-4fff-ae7a-6dfc534838af")
+		(property "Reference" "TP37"
+			(at 136.3979 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 138.9379 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 140.97 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 140.97 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 140.97 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "162329e7-19e3-46b1-afe8-65e59c87b83a")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/5cfd787d-4139-413d-942e-6c87b4316b27"
+					(reference "TP37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 168.91 146.05 0)
 		(unit 1)
@@ -7730,6 +7831,75 @@
 			(project "ArchiBot"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/5cfd787d-4139-413d-942e-6c87b4316b27"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 158.75 118.11 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a4db2656-1503-4f12-bcfa-38a750f57633")
+		(property "Reference" "TP38"
+			(at 163.3221 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 160.7821 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 158.75 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 158.75 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 158.75 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cc94b291-a7fc-443c-aa15-2cb20ff4f497")
+		)
+		(instances
+			(project "ArchiBot"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/5cfd787d-4139-413d-942e-6c87b4316b27"
+					(reference "TP38")
 					(unit 1)
 				)
 			)
