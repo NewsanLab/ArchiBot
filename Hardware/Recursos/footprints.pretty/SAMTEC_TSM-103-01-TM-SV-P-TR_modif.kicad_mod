@@ -385,6 +385,18 @@
 		(uuid "9f42ea2e-e160-4a66-8299-82e7350c589c")
 	)
 	(model "${KIPRJMOD}/Recursos/footprints.pretty/TSM-103-01-TM-SV-P-TR.step"
+		(hide yes)
+		(offset
+			(xyz 0 0 1.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/Recursos/footprints.pretty/TSM-103-01-TM-SV-P-TR_nocap.step"
 		(offset
 			(xyz 0 0 1.2)
 		)
