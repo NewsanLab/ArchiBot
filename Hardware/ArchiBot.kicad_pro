@@ -548,6 +548,12 @@
         },
         {
           "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "PurchaseLink",
           "name": "PurchaseLink",
           "show": true
@@ -580,12 +586,6 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Description",
-          "name": "Description",
           "show": false
         }
       ],

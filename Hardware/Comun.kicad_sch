@@ -2954,7 +2954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Buffer, Non-Inverting 2 Element 4 Bit per Element 3-State Output 20-VSSOP"
+		(property "Description" "IC BUF NON-INVERT 5.5V 20TSSOP"
 			(at 163.83 90.17 0)
 			(effects
 				(font
@@ -3158,7 +3158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 166.37 66.04 0)
 			(effects
 				(font
@@ -3384,7 +3384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN RCPT 6POS 0.1 GOLD SMD"
 			(at 233.68 46.99 0)
 			(effects
 				(font
@@ -3683,7 +3683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Single Schmitt NOT Gate, Low-Voltage CMOS"
+		(property "Description" "IC INVERT SCHMITT 1CH 1IN SC70-5"
 			(at 119.38 102.87 0)
 			(effects
 				(font
@@ -4857,7 +4857,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 118.11 90.17 0)
 			(effects
 				(font
@@ -4944,7 +4944,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 10000PF 100V X7R 0603"
 			(at 250.19 43.18 0)
 			(effects
 				(font
@@ -5100,7 +5100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor, small US symbol"
+		(property "Description" "CAP ALUMHYB 470UF 20% 25V SMD"
 			(at 243.84 43.18 0)
 			(effects
 				(font

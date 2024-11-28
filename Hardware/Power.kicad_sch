@@ -5714,7 +5714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES 1K OHM 1% 1/10W 0603"
 			(at 180.34 137.16 0)
 			(effects
 				(font
@@ -5864,7 +5864,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES 100K OHM 1% 1/10W 0603"
 			(at 130.81 140.97 0)
 			(effects
 				(font
@@ -5949,7 +5949,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES 10K OHM 1% 1/10W 0603"
 			(at 156.21 139.7 0)
 			(effects
 				(font
@@ -6034,7 +6034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Schottky diode, small symbol, filled shape"
+		(property "Description" "DIODE SCHOTTKY 40V 1A SOD123FL"
 			(at 146.05 118.11 0)
 			(effects
 				(font
@@ -6320,7 +6320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES 30K OHM 1% 1/10W 0603"
 			(at 153.67 146.05 0)
 			(effects
 				(font
@@ -6405,7 +6405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES 220K OHM 1% 1/10W 0603"
 			(at 161.29 142.24 0)
 			(effects
 				(font
@@ -6624,7 +6624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "THR PCB TERMINAL BLOCK; PUSH-BUT 4MM"
 			(at 76.2 143.51 0)
 			(effects
 				(font
@@ -6633,7 +6633,7 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "2060-452/998-404"
+		(property "PartNumber" "2060-1452/998-404"
 			(at 73.66 143.51 0)
 			(effects
 				(font
@@ -6781,7 +6781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Schottky diode, small symbol, filled shape"
+		(property "Description" "DIODE SCHOTTKY 40V 1A SOD123FL"
 			(at 210.82 137.16 0)
 			(effects
 				(font
@@ -6933,7 +6933,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC REG BUCK ADJ 3A SOT563"
 			(at 134.62 137.16 0)
 			(effects
 				(font
@@ -7096,7 +7096,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Schottky diode, small symbol, filled shape"
+		(property "Description" "DIODE SCHOTTKY 40V 1A SOD123FL"
 			(at 153.67 118.11 0)
 			(effects
 				(font
@@ -7312,7 +7312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 175.26 140.97 0)
 			(effects
 				(font
@@ -7399,7 +7399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 10UF 25V X5R 0805"
 			(at 118.11 142.24 0)
 			(effects
 				(font
@@ -7486,7 +7486,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 22UF 25V X5R 0805"
 			(at 168.91 140.97 0)
 			(effects
 				(font
@@ -7707,7 +7707,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol, filled shape"
+		(property "Description" "LED GREEN DIFFUSED 0603 SMD"
 			(at 184.15 140.97 0)
 			(effects
 				(font
@@ -7794,7 +7794,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 10UF 25V X5R 0805"
 			(at 111.76 142.24 0)
 			(effects
 				(font
@@ -8141,7 +8141,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 124.46 142.24 0)
 			(effects
 				(font
@@ -8292,7 +8292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "FIXED IND 2.2UH 4.3A 48 MOHM SMD"
 			(at 157.48 137.16 0)
 			(effects
 				(font
@@ -8379,7 +8379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 33PF 50V C0G/NP0 0402"
 			(at 161.29 148.59 0)
 			(effects
 				(font
@@ -8464,7 +8464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES 47K OHM 1% 1/10W 0603"
 			(at 130.81 148.59 0)
 			(effects
 				(font
@@ -8551,7 +8551,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "12V, 450W Discrete Bidirectional TVS Diode, SOD-323"
+		(property "Description" "TVS DIODE 12VWM 24VC SOD323"
 			(at 106.68 142.24 0)
 			(effects
 				(font

@@ -2400,7 +2400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN HEADER SMD 3POS 2.54MM"
 			(at 119.38 144.78 0)
 			(effects
 				(font
@@ -2560,7 +2560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN HEADER SMD 3POS 2.54MM"
 			(at 119.38 128.27 0)
 			(effects
 				(font
@@ -2777,7 +2777,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN HEADER SMD 3POS 2.54MM"
 			(at 119.38 111.76 0)
 			(effects
 				(font
@@ -2868,7 +2868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN HEADER SMD 3POS 2.54MM"
 			(at 119.38 45.72 0)
 			(effects
 				(font
@@ -3217,7 +3217,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES 220 OHM 1% 1/10W 0603"
 			(at 171.45 93.98 0)
 			(effects
 				(font
@@ -3368,7 +3368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN HEADER SMD 3POS 2.54MM"
 			(at 119.38 78.74 0)
 			(effects
 				(font
@@ -3531,7 +3531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRANS NPN 40V 200MA SOT23-3"
 			(at 180.34 93.98 0)
 			(effects
 				(font
@@ -3621,7 +3621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 105.41 181.61 0)
 			(effects
 				(font
@@ -3709,7 +3709,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN HEADER SMD 3POS 2.54MM"
 			(at 119.38 62.23 0)
 			(effects
 				(font
@@ -4187,7 +4187,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN HEADER SMD 3POS 2.54MM"
 			(at 119.38 161.29 0)
 			(effects
 				(font
@@ -4410,7 +4410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN HEADER SMD 3POS 2.54MM"
 			(at 119.38 95.25 0)
 			(effects
 				(font
@@ -4500,7 +4500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 180.34 77.47 0)
 			(effects
 				(font
@@ -4650,7 +4650,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 10UF 25V X5R 0805"
 			(at 99.06 181.61 0)
 			(effects
 				(font
@@ -4800,7 +4800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN RCPT 2POS 0.1 GOLD SMD"
 			(at 189.23 85.09 0)
 			(effects
 				(font
@@ -4888,7 +4888,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN HEADER SMD 3POS 2.54MM"
 			(at 119.38 177.8 0)
 			(effects
 				(font
@@ -4979,7 +4979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN HEADER SMD 3POS 2.54MM"
 			(at 119.38 29.21 0)
 			(effects
 				(font
