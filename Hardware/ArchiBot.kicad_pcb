@@ -1419,7 +1419,7 @@
 			(uuid "901cfa2f-1963-486f-a94a-e142e7e45923")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "2c24c2a5-41b0-4569-9896-211456e70a72")
@@ -20772,7 +20772,7 @@
 		(descr "24-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
 		(tags "SSOP 0.65")
 		(property "Reference" "U8"
-			(at -2.4 -4.9 360)
+			(at -2.4 -4.9 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "da783713-ab3d-4765-82cc-21f18178d734")
@@ -20785,7 +20785,7 @@
 			)
 		)
 		(property "Value" "TB6612FNG"
-			(at 0 5.25 360)
+			(at 0 5.25 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6333f44e-4db5-4799-9dba-766e4789f543")
@@ -21029,7 +21029,7 @@
 			(uuid "ced655b7-6deb-4322-b671-1b441554b085")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "66a413e8-9821-4b6c-a390-563b5d5e162f")
 			(effects
@@ -28781,7 +28781,7 @@
 		(descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x08 2.54mm single row")
 		(property "Reference" "J3"
-			(at 0 2.33 360)
+			(at 0 2.33 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "a46c2ec8-2413-4f42-9bdd-9016933b3aff")
@@ -28794,7 +28794,7 @@
 			)
 		)
 		(property "Value" "Alimentación"
-			(at -2.18074 -8.74188 360)
+			(at -2.18074 -8.74188 0)
 			(layer "B.Fab")
 			(uuid "9f802bb9-86c9-4b6a-9748-287c7c092117")
 			(effects
@@ -29031,7 +29031,7 @@
 			(uuid "053c56de-93a7-4089-8658-d3318ecab6bf")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 360)
+			(at 0 -8.89 0)
 			(layer "B.Fab")
 			(uuid "b0ef6a06-766a-426a-a5e8-ebc637214000")
 			(effects
@@ -29237,7 +29237,7 @@
 		(descr "Through hole straight pin header, 1x06, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x06 2.54mm single row")
 		(property "Reference" "J4"
-			(at 0 -15.38188 360)
+			(at 0 -15.38188 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "85c5ced9-f70b-4ba8-8051-30486ec258db")
@@ -29250,7 +29250,7 @@
 			)
 		)
 		(property "Value" "Analógico"
-			(at -2.18074 -6.38188 360)
+			(at -2.18074 -6.38188 0)
 			(layer "B.Fab")
 			(uuid "6d3a79c8-dab0-4092-98e7-f969c8087d90")
 			(effects
@@ -29487,7 +29487,7 @@
 			(uuid "1a03799d-98db-4807-b90e-04a3b752b0c3")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -6.35 360)
+			(at 0 -6.35 0)
 			(layer "B.Fab")
 			(uuid "149af669-f055-40d8-a950-2e45827d6795")
 			(effects
@@ -29649,7 +29649,7 @@
 		(descr "Through hole straight pin header, 1x10, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x10 2.54mm single row")
 		(property "Reference" "J5"
-			(at 0 2.61412 360)
+			(at 0 2.61412 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "186dc52f-57dc-4594-83a8-e0b08cf88872")
@@ -29662,7 +29662,7 @@
 			)
 		)
 		(property "Value" "Digital/PWM"
-			(at 2.57926 -11.88588 360)
+			(at 2.57926 -11.88588 0)
 			(layer "B.Fab")
 			(uuid "2b3059fe-f409-4c62-9038-ba3fe17fdebb")
 			(effects
@@ -29899,7 +29899,7 @@
 			(uuid "7a3011f9-5098-4d69-932a-40f8d9fcf395")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -11.43 360)
+			(at 0 -11.43 0)
 			(layer "B.Fab")
 			(uuid "ccabd95a-8127-4885-bed8-2bc322f40c7f")
 			(effects
@@ -30149,7 +30149,7 @@
 		(descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x08 2.54mm single row")
 		(property "Reference" "J6"
-			(at 0 -20.46188 360)
+			(at 0 -20.46188 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "d028363d-3563-41a3-b6bd-989b7a870454")
@@ -30162,7 +30162,7 @@
 			)
 		)
 		(property "Value" "Digital/PWM"
-			(at 2.57926 -8.96188 360)
+			(at 2.57926 -8.96188 0)
 			(layer "B.Fab")
 			(uuid "35ddf881-9351-4a6b-984a-a55820aeda0a")
 			(effects
@@ -30399,7 +30399,7 @@
 			(uuid "1e732522-694b-4390-9853-de7b749b7479")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 360)
+			(at 0 -8.89 0)
 			(layer "B.Fab")
 			(uuid "c55cc22f-9399-4c06-adb9-9447a0671a32")
 			(effects
@@ -41234,7 +41234,7 @@
 	)
 	(gr_line
 		(start 170.5 59.5)
-		(end 227 59.5)
+		(end 220 59.5)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -41264,8 +41264,8 @@
 		(uuid "3eb5e548-655c-44da-93d3-d809aa658a3d")
 	)
 	(gr_line
-		(start 185 56.5)
-		(end 185 131.5)
+		(start 177.5 56.5)
+		(end 177.5 131.5)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -41274,8 +41274,8 @@
 		(uuid "72031254-8f3b-4f53-a78d-564fb140b57b")
 	)
 	(gr_line
-		(start 221 56.5)
-		(end 221 131.5)
+		(start 212.5 56.5)
+		(end 212.5 131.5)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -41284,8 +41284,8 @@
 		(uuid "821a3f74-6263-4600-b8d1-5400bf0c23ea")
 	)
 	(gr_line
-		(start 205 56.5)
-		(end 205 131.5)
+		(start 195 57)
+		(end 195 132)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -41294,8 +41294,8 @@
 		(uuid "84b8317b-abe3-4eb7-a055-0bb20bcf3c67")
 	)
 	(gr_line
-		(start 214 131.5)
-		(end 214 56.5)
+		(start 205.5 131.5)
+		(end 205.5 56.5)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -41305,7 +41305,7 @@
 	)
 	(gr_rect
 		(start 170.5 56.5)
-		(end 227 131.5)
+		(end 220 131.5)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -60302,7 +60302,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "SOURCE REF DES	NET					SIDE	X		Y\n\nTP1				VBAT				BOTTOM	97.0	53.0\nTP2				GND					BOTTOM	97.0	44.0\nTP3				VOUT				BOTTOM	71.0	56.0\nTP4				/Archi/RUN			BOTTOM	59.0	51.0\nTP5				/Archi/A0			BOTTOM	41.5	51.0\nTP6				/Archi/SELECT		BOTTOM	51.5	19.5\nTP7				/Auto/N_SEL			BOTTOM	38.0	27.0\nTP8				/Archi/TX			BOTTOM	5.0		40.0\nTP9				/Archi/RX			BOTTOM	8.5		40.0\nTP10			/Archi/GP03			BOTTOM	29.5	9.0\nTP11			/Archi/GP04			BOTTOM	33.0	9.0\nTP12			/Arania/SRV11		BOTTOM	42.0	17.5\nTP13			/Arania/SRV05		BOTTOM	32.5	17.0\nTP14			/Arania/SRV04		BOTTOM	29.5	17.0\nTP15			/Arania/SRV03		BOTTOM	22.5	17.0\nTP16			/Auto/EN4			BOTTOM	31.0	25.5\nTP17			/Auto/EN3			BOTTOM	42.5	33.0\nTP18			/Auto/EN2			BOTTOM	40.0	31.5\nTP19			/Auto/EN1			BOTTOM	63.0	27.0\nTP20			Net-(J10-1_1)		BOTTOM	90.5	23.0\nTP21			Net-(J10-2_1)		BOTTOM	90.5	26.5\nTP22			Net-(J9-2_1)		BOTTOM	97.0	38.5\nTP23			Net-(J9-1_1)		BOTTOM	97.0	30.0\nTP24			Net-(J11-1_1)		BOTTOM	5.5		36.0\nTP25			Net-(J11-2_1)		BOTTOM	5.5		32.0\nTP26			Net-(J12-2_1)		BOTTOM	5.5		22.5\nTP27			Net-(J12-1_1)		BOTTOM	5.5		26.5\nTP28			Net-(J14-Pin_2)		BOTTOM	93.5	9.5\nTP29			+3V3				BOTTOM	56.5	51.0\nTP30			/Archi/GP05			BOTTOM	41.0	21.5\nTP31			/Archi/GP11			BOTTOM	48.5	19.5\nTP32			/Archi/DIR_SER		BOTTOM	45.0	9.0\nTP33			/Archi/DIR_CLK		BOTTOM	38.5	9.0\nTP34			/Archi/DIR_LATCH	BOTTOM	26.5	9.0\nTP35			/Archi/TRIG			BOTTOM	30.5	51.0\nTP36			/Archi/ECHO			BOTTOM	36.5	50.5\nTP37			+5V					BOTTOM	61.5	51.0\nTP38			VIN					BOTTOM	47.0	51.0\nTP39			/Arania/GP13		BOTTOM	54.0	19.5\nTP40			/Arania/GP14		BOTTOM	56.0	17.5\nTP41			/Arania/GP15		BOTTOM	58.5	17.5\nTP42			/Arania/GP16		BOTTOM	65.0	17.5\nTP43			/Arania/GP17		BOTTOM	71.0	17.5\nTP44			/Arania/GP18		BOTTOM	77.0	17.5\n"
+	(gr_text "REF		NET					SIDE	X		Y\n\nTP1		VBAT				BOTTOM	97.0	53.0\nTP2		GND					BOTTOM	97.0	44.0\nTP3		VOUT				BOTTOM	71.0	56.0\nTP4		/Archi/RUN			BOTTOM	59.0	51.0\nTP5		/Archi/A0			BOTTOM	41.5	51.0\nTP6		/Archi/SELECT		BOTTOM	51.5	19.5\nTP7		/Auto/N_SEL			BOTTOM	38.0	27.0\nTP8		/Archi/TX			BOTTOM	5.0		40.0\nTP9		/Archi/RX			BOTTOM	8.5		40.0\nTP10	/Archi/GP03			BOTTOM	29.5	9.0\nTP11	/Archi/GP04			BOTTOM	33.0	9.0\nTP12	/Arania/SRV11		BOTTOM	42.0	17.5\nTP13	/Arania/SRV05		BOTTOM	32.5	17.0\nTP14	/Arania/SRV04		BOTTOM	29.5	17.0\nTP15	/Arania/SRV03		BOTTOM	22.5	17.0\nTP16	/Auto/EN4			BOTTOM	31.0	25.5\nTP17	/Auto/EN3			BOTTOM	42.5	33.0\nTP18	/Auto/EN2			BOTTOM	40.0	31.5\nTP19	/Auto/EN1			BOTTOM	63.0	27.0\nTP20	Net-(J10-1_1)		BOTTOM	90.5	23.0\nTP21	Net-(J10-2_1)		BOTTOM	90.5	26.5\nTP22	Net-(J9-2_1)		BOTTOM	97.0	38.5\nTP23	Net-(J9-1_1)		BOTTOM	97.0	30.0\nTP24	Net-(J11-1_1)		BOTTOM	5.5		36.0\nTP25	Net-(J11-2_1)		BOTTOM	5.5		32.0\nTP26	Net-(J12-2_1)		BOTTOM	5.5		22.5\nTP27	Net-(J12-1_1)		BOTTOM	5.5		26.5\nTP28	Net-(J14-Pin_2)		BOTTOM	93.5	9.5\nTP29	+3V3				BOTTOM	56.5	51.0\nTP30	/Archi/GP05			BOTTOM	41.0	21.5\nTP31	/Archi/GP11			BOTTOM	48.5	19.5\nTP32	/Archi/DIR_SER		BOTTOM	45.0	9.0\nTP33	/Archi/DIR_CLK		BOTTOM	38.5	9.0\nTP34	/Archi/DIR_LATCH	BOTTOM	26.5	9.0\nTP35	/Archi/TRIG			BOTTOM	30.5	51.0\nTP36	/Archi/ECHO			BOTTOM	36.5	50.5\nTP37	+5V					BOTTOM	61.5	51.0\nTP38	VIN					BOTTOM	47.0	51.0\nTP39	/Arania/GP13		BOTTOM	54.0	19.5\nTP40	/Arania/GP14		BOTTOM	56.0	17.5\nTP41	/Arania/GP15		BOTTOM	58.5	17.5\nTP42	/Arania/GP16		BOTTOM	65.0	17.5\nTP43	/Arania/GP17		BOTTOM	71.0	17.5\nTP44	/Arania/GP18		BOTTOM	77.0	17.5\n"
 		(at 171 131 0)
 		(layer "Eco1.User")
 		(uuid "3db51559-d62f-4ebb-b20f-26fde941a48c")
