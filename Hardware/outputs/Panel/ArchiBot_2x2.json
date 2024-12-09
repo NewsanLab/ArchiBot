@@ -14,7 +14,7 @@
     "cuts": {
         "type": "vcuts",
         "clearance": "1.5mm",
-        "layer": "0"
+        "layer": "User.6"
     },
     "framing": {
         "type": "tightframe",

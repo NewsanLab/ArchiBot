@@ -566,167 +566,7 @@
     "netclass_patterns": [
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Auto/EN1"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Archi/DIR_CLK"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(U1-FB)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(J3-Pin_1-Pad1)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Archi/TX"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-VBAT"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Arania/GP15"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Arania/SRV11"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(J14-Pin_2)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Archi/GP03"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Auto/QC"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(J9-2_1)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Arania/SRV05"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(J12-2_1)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Arania/GP16"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Arania/SRV03"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Archi/SELECT"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(U1-EN)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(U1-SW)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-VOUT"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(U5-~{SRCLR})"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Arania/GP13"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Auto/N_SEL"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Arania/LASER"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-GND"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Auto/QB"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-+5V"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(J11-1_1)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Arania/GP17"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(J4-Pin_6-Pad6)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Auto/QG"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Arania/SRV04"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Archi/RX"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Archi/A1"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(J10-1_1)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U5-QH'-Pad9)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Archi/ECHO"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Archi/GP05"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(J8-Pin_1-Pad1)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(J8-Pin_1-Pad1)_1"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(J4-Pin_5-Pad5)"
+        "pattern": "Board_0-/Archi/RUN"
       },
       {
         "netclass": "Board_0-Default",
@@ -734,79 +574,11 @@
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Archi/GP11"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Archi/DIR_LATCH"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Archi/TRIG"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(J11-2_1)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(J8-Pin_6-Pad6)_1"
-      },
-      {
-        "netclass": "Board_0-Default",
         "pattern": "Board_0-Net-(J10-2_1)"
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Auto/QF"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(Q1-B)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Auto/QH"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(D1-A)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Archi/RUN"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-VIN"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Auto/EN2"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Auto/EN4"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-+3V3"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Arania/GP14"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Arania/GP18"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Archi/GP04"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Auto/EN3"
+        "pattern": "Board_0-Net-(J11-1_1)"
       },
       {
         "netclass": "Board_0-Default",
@@ -814,19 +586,11 @@
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U3-NC-Pad1)"
+        "pattern": "Board_0-VIN"
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(J12-1_1)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Auto/QA"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Archi/DIR_SER"
+        "pattern": "Board_0-/Archi/SELECT"
       },
       {
         "netclass": "Board_0-Default",
@@ -834,7 +598,211 @@
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-/Auto/QD"
+        "pattern": "Board_0-/Arania/SRV05"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Archi/A1"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(J12-1_1)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(J9-1_1)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U1-SW)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-VBAT"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(J10-1_1)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J8-Pin_1-Pad1)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Auto/QG"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U5-QH'-Pad9)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Arania/SRV03"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Auto/QF"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J4-Pin_5-Pad5)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Auto/N_SEL"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J8-Pin_1-Pad1)_1"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U1-EN)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Arania/GP13"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U3-NC-Pad1)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(D1-A)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Archi/RX"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Arania/GP16"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Auto/EN1"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(J12-2_1)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-VOUT"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-+5V"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J4-Pin_6-Pad6)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Auto/QB"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Auto/EN3"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Archi/GP04"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Arania/GP17"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Archi/TRIG"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Archi/ECHO"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Archi/TX"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(J9-2_1)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U5-~{SRCLR})"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U1-FB)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Archi/GP11"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Auto/QC"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Arania/GP14"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Archi/DIR_SER"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(J14-Pin_2)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J3-Pin_1-Pad1)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Arania/GP18"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Archi/DIR_LATCH"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Archi/GP03"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Auto/EN2"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Archi/GP05"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Auto/QA"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(J11-2_1)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(Q1-B)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Arania/SRV04"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Arania/SRV11"
       },
       {
         "netclass": "Board_0-Default",
@@ -842,35 +810,47 @@
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(J9-1_1)"
+        "pattern": "Board_0-/Arania/LASER"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Archi/DIR_CLK"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Auto/QH"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-+3V3"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Arania/GP15"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Auto/QD"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J8-Pin_6-Pad6)_1"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-GND"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/Auto/EN4"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Arania/GP13"
+        "pattern": "Board_1-Net-(Q1-B)"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Arania/GP16"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Archi/GP05"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Auto/EN2"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Auto/QA"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Auto/QG"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(J12-2_1)"
+        "pattern": "Board_1-/Arania/LASER"
       },
       {
         "netclass": "Board_1-Default",
@@ -878,55 +858,7 @@
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Archi/DIR_SER"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Archi/TRIG"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(U1-PG)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Arania/SRV03"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(J4-Pin_5-Pad5)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(U1-EN)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(U1-FB)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(U1-SW)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(U5-~{SRCLR})"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(J3-Pin_1-Pad1)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Archi/GP11"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-GND"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(J8-Pin_6-Pad6)"
+        "pattern": "Board_1-/Auto/QA"
       },
       {
         "netclass": "Board_1-Default",
@@ -934,15 +866,99 @@
       },
       {
         "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Arania/GP13"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Archi/GP05"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Auto/EN1"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Auto/QC"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(D1-A)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Archi/GP03"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Archi/TRIG"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(J12-1_1)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Archi/RX"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(J11-2_1)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J8-Pin_6-Pad6)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Auto/QD"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(J12-2_1)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Archi/GP11"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Auto/EN4"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Arania/GP16"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Archi/SELECT"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U5-~{SRCLR})"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Auto/EN2"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U3-NC-Pad1)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J4-Pin_5-Pad5)"
+      },
+      {
+        "netclass": "Board_1-Default",
         "pattern": "Board_1-/Arania/GP17"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Archi/DIR_CLK"
+        "pattern": "Board_1-/Archi/DIR_SER"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Archi/DIR_LATCH"
+        "pattern": "Board_1-/Archi/GP04"
       },
       {
         "netclass": "Board_1-Default",
@@ -954,35 +970,7 @@
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Auto/QH"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(J10-2_1)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Archi/A0"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-+5V"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Arania/GP15"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(J9-1_1)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Archi/TX"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Archi/ECHO"
+        "pattern": "Board_1-unconnected-(J3-Pin_1-Pad1)"
       },
       {
         "netclass": "Board_1-Default",
@@ -990,7 +978,11 @@
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Archi/SELECT"
+        "pattern": "Board_1-VBAT"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Archi/DIR_LATCH"
       },
       {
         "netclass": "Board_1-Default",
@@ -998,31 +990,7 @@
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-VOUT"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Archi/GP03"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(D1-A)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U3-NC-Pad1)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Arania/SRV04"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Archi/RX"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-VIN"
+        "pattern": "Board_1-/Auto/QB"
       },
       {
         "netclass": "Board_1-Default",
@@ -1030,79 +998,19 @@
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(J9-2_1)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(J8-Pin_1-Pad1)_1"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(J11-1_1)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U5-QH'-Pad9)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Archi/RUN"
-      },
-      {
-        "netclass": "Board_1-Default",
         "pattern": "Board_1-/Auto/EN3"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-VBAT"
+        "pattern": "Board_1-Net-(U1-SW)"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Auto/EN4"
+        "pattern": "Board_1-/Arania/SRV04"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Archi/GP04"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Auto/EN1"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Auto/QB"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(Q1-B)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Auto/N_SEL"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Archi/A1"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Auto/QD"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Arania/GP14"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Auto/QC"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(J11-2_1)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Arania/SRV11"
+        "pattern": "Board_1-/Archi/TX"
       },
       {
         "netclass": "Board_1-Default",
@@ -1110,203 +1018,111 @@
       },
       {
         "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J8-Pin_6-Pad6)_1"
+      },
+      {
+        "netclass": "Board_1-Default",
         "pattern": "Board_1-unconnected-(J8-Pin_1-Pad1)"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(J12-1_1)"
+        "pattern": "Board_1-Net-(U1-FB)"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-/Arania/LASER"
+        "pattern": "Board_1-/Archi/ECHO"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(J8-Pin_6-Pad6)_1"
+        "pattern": "Board_1-+5V"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(J14-Pin_2)"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Archi/A0"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(J4-Pin_5-Pad5)"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-VOUT"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Arania/SRV11"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J8-Pin_1-Pad1)_1"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Archi/DIR_CLK"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Archi/A1"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Arania/SRV05"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U5-QH'-Pad9)"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Archi/GP04"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Arania/SRV11"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-VIN"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(J9-1_1)"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Arania/GP14"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Auto/N_SEL"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(U1-FB)"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Archi/RUN"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Arania/GP15"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(J9-2_1)"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Auto/EN1"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Auto/QH"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(U1-SW)"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(J11-1_1)"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(J4-Pin_6-Pad6)"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Arania/SRV03"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Arania/GP18"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Archi/DIR_CLK"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Auto/QC"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Arania/GP14"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(J11-2_1)"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Auto/QG"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Arania/SRV03"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-GND"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(J3-Pin_1-Pad1)"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U1-EN)"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-+5V"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-VIN"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Auto/N_SEL"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/Arania/GP15"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Auto/EN3"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(J10-2_1)"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Arania/LASER"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Arania/GP13"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Archi/DIR_SER"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(Q1-B)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(U1-PG)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U5-QH'-Pad9)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Archi/DIR_LATCH"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Auto/EN2"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(J10-2_1)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-GND"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(J9-2_1)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Archi/RUN"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(J8-Pin_6-Pad6)_1"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(J9-1_1)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(U1-EN)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(U5-~{SRCLR})"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Arania/GP17"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Archi/TX"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Archi/GP03"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Auto/QD"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Archi/A1"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Auto/QF"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(J12-1_1)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-VOUT"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Arania/GP16"
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U1-PG)"
       },
       {
         "netclass": "Board_2-Default",
@@ -1314,47 +1130,11 @@
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(J8-Pin_1-Pad1)_1"
+        "pattern": "Board_2-/Auto/QB"
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U3-NC-Pad1)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Archi/A0"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(J8-Pin_1-Pad1)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Archi/ECHO"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(J11-1_1)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Arania/SRV04"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Auto/QE"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Auto/QA"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Archi/GP05"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Archi/TRIG"
+        "pattern": "Board_2-/Arania/GP14"
       },
       {
         "netclass": "Board_2-Default",
@@ -1362,11 +1142,19 @@
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-VBAT"
+        "pattern": "Board_2-/Archi/A1"
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(J8-Pin_6-Pad6)"
+        "pattern": "Board_2-Net-(J11-1_1)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(J8-Pin_1-Pad1)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Archi/DIR_CLK"
       },
       {
         "netclass": "Board_2-Default",
@@ -1374,7 +1162,67 @@
       },
       {
         "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Archi/TRIG"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Auto/QA"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Arania/LASER"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-VOUT"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Arania/SRV03"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Archi/A0"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Archi/GP03"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Arania/SRV11"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Archi/GP04"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Archi/ECHO"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Archi/GP11"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Auto/QF"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-GND"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-VBAT"
+      },
+      {
+        "netclass": "Board_2-Default",
         "pattern": "Board_2-/Auto/EN4"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Auto/EN3"
       },
       {
         "netclass": "Board_2-Default",
@@ -1386,7 +1234,115 @@
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Archi/GP11"
+        "pattern": "Board_2-unconnected-(J8-Pin_1-Pad1)_1"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Auto/QC"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Archi/DIR_SER"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(U1-PG)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Archi/RX"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(J10-2_1)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(J11-2_1)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(J4-Pin_6-Pad6)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(Q1-B)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Archi/RUN"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Arania/GP17"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(J12-1_1)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Arania/SRV04"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Auto/EN1"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(U1-EN)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-VIN"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U5-QH'-Pad9)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U3-NC-Pad1)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-+5V"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Arania/GP18"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(J9-2_1)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Archi/GP05"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Archi/TX"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Archi/DIR_LATCH"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Auto/N_SEL"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(J9-1_1)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(U1-SW)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(J4-Pin_5-Pad5)"
       },
       {
         "netclass": "Board_2-Default",
@@ -1394,7 +1350,23 @@
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Auto/QB"
+        "pattern": "Board_2-/Auto/EN2"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(U5-~{SRCLR})"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(U1-FB)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Auto/QD"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Arania/GP13"
       },
       {
         "netclass": "Board_2-Default",
@@ -1402,47 +1374,43 @@
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-/Archi/RX"
+        "pattern": "Board_2-/Arania/GP16"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Arania/SRV05"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(J14-Pin_2)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(J8-Pin_6-Pad6)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Arania/GP15"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/Auto/QE"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(J3-Pin_1-Pad1)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(J8-Pin_6-Pad6)_1"
       },
       {
         "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Arania/SRV05"
+        "pattern": "Board_3-+5V"
       },
       {
         "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Archi/DIR_SER"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-VOUT"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Arania/GP18"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Arania/GP17"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Archi/ECHO"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Archi/GP04"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Arania/SRV11"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Archi/TX"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Auto/EN1"
+        "pattern": "Board_3-/Auto/QB"
       },
       {
         "netclass": "Board_3-Default",
@@ -1450,11 +1418,259 @@
       },
       {
         "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Auto/QD"
+        "pattern": "Board_3-Net-(U1-FB)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(J8-Pin_6-Pad6)_1"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Arania/SRV05"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Auto/QF"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(J3-Pin_1-Pad1)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(J8-Pin_1-Pad1)_1"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(Q1-B)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(J10-2_1)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Auto/QC"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Arania/SRV11"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(U5-~{SRCLR})"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-+3V3"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U3-NC-Pad1)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Arania/GP16"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(J11-1_1)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(J12-2_1)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Archi/GP11"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(U1-EN)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(D1-A)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Auto/EN4"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(U1-PG)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Archi/TX"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Archi/DIR_CLK"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Archi/DIR_LATCH"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Archi/TRIG"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-VOUT"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Auto/EN3"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(J14-Pin_2)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Archi/ECHO"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Arania/SRV03"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(J11-2_1)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Arania/GP15"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Archi/A0"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Auto/N_SEL"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Auto/QG"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Auto/QH"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(J9-2_1)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-VBAT"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(J8-Pin_1-Pad1)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U5-QH'-Pad9)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Archi/DIR_SER"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Arania/SRV04"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(J10-1_1)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Auto/QA"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(J12-1_1)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Arania/GP13"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(J4-Pin_6-Pad6)"
       },
       {
         "netclass": "Board_3-Default",
         "pattern": "Board_3-/Archi/A1"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Auto/EN1"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(J8-Pin_6-Pad6)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Archi/GP04"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-VIN"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(U1-SW)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Auto/QE"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(J4-Pin_5-Pad5)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Arania/GP17"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Arania/GP18"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Arania/LASER"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Archi/SELECT"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Auto/QD"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-GND"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Archi/RX"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Auto/EN2"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/Arania/GP14"
       },
       {
         "netclass": "Board_3-Default",
@@ -1466,223 +1682,7 @@
       },
       {
         "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(Q1-B)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Auto/QF"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(J10-1_1)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Arania/SRV03"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Arania/GP13"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Arania/GP16"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Auto/QC"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(D1-A)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-+5V"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Auto/N_SEL"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Auto/QH"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(J11-1_1)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(J11-2_1)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(U1-EN)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Auto/QA"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(U1-SW)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(U5-~{SRCLR})"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-VIN"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Auto/EN3"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(J8-Pin_1-Pad1)_1"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(J8-Pin_6-Pad6)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Archi/DIR_CLK"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(J14-Pin_2)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(J8-Pin_6-Pad6)_1"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Archi/SELECT"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-GND"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Archi/TRIG"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Auto/QB"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(J3-Pin_1-Pad1)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(J4-Pin_6-Pad6)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(J10-2_1)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Archi/A0"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(U1-PG)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Auto/EN4"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U5-QH'-Pad9)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Auto/QE"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Auto/EN2"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Auto/QG"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(J12-2_1)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Arania/GP15"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Arania/LASER"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(J12-1_1)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(J4-Pin_5-Pad5)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-+3V3"
-      },
-      {
-        "netclass": "Board_3-Default",
         "pattern": "Board_3-/Archi/GP05"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Archi/RX"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(J9-2_1)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Archi/DIR_LATCH"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Archi/GP11"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Arania/GP14"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(J8-Pin_1-Pad1)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-VBAT"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(U1-FB)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U3-NC-Pad1)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/Arania/SRV04"
       }
     ]
   },

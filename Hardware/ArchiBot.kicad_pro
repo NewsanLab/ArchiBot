@@ -503,7 +503,7 @@
       "idf": "",
       "netlist": "",
       "plot": "outputs/plots/",
-      "pos_files": "",
+      "pos_files": "outputs/",
       "specctra_dsn": "",
       "step": "outputs/ArchiBot_1.2.step",
       "svg": "",
