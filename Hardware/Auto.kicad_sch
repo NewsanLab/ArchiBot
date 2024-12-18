@@ -6137,7 +6137,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "2060-452/998-404"
+		(property "Datasheet" "https://www.wago.com/global/pcb-terminal-blocks-and-pluggable-connectors/thr-terminal-block-with-push-buttons-in-tape-and-reel-packing/p/2060-1452_998-404"
 			(at 176.53 119.38 0)
 			(effects
 				(font
@@ -9555,7 +9555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "2060-452/998-404"
+		(property "Datasheet" "https://www.wago.com/global/pcb-terminal-blocks-and-pluggable-connectors/thr-terminal-block-with-push-buttons-in-tape-and-reel-packing/p/2060-1452_998-404"
 			(at 176.53 68.58 0)
 			(effects
 				(font
@@ -9774,7 +9774,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "2060-452/998-404"
+		(property "Datasheet" "https://www.wago.com/global/pcb-terminal-blocks-and-pluggable-connectors/thr-terminal-block-with-push-buttons-in-tape-and-reel-packing/p/2060-1452_998-404"
 			(at 176.53 139.7 0)
 			(effects
 				(font
@@ -11143,7 +11143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "2060-452/998-404"
+		(property "Datasheet" "https://www.wago.com/global/pcb-terminal-blocks-and-pluggable-connectors/thr-terminal-block-with-push-buttons-in-tape-and-reel-packing/p/2060-1452_998-404"
 			(at 176.53 48.26 0)
 			(effects
 				(font

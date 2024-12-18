@@ -6776,7 +6776,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "2060-452/998-404"
+		(property "Datasheet" "https://www.wago.com/global/pcb-terminal-blocks-and-pluggable-connectors/thr-terminal-block-with-push-buttons-in-tape-and-reel-packing/p/2060-1452_998-404"
 			(at 73.66 143.51 0)
 			(effects
 				(font
@@ -6786,7 +6786,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "THR PCB TERMINAL BLOCK; PUSH-BUT 4MM"
+		(property "Description" "THR PCB TERMINAL BLOCK PUSH-BUT 4MM"
 			(at 76.2 143.51 0)
 			(effects
 				(font
