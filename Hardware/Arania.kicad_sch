@@ -2273,6 +2273,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 111.76 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 111.76 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8da3e997-2a7e-47f0-b11a-18f861ff3dc6")
 		)
@@ -2334,6 +2352,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 111.76 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 111.76 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 111.76 156.21 0)
 			(effects
 				(font
@@ -2427,6 +2463,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Samtec Inc."
+			(at 119.38 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "3POS 0.100\" (2.54mm)"
+			(at 119.38 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e83b1d3-a6a4-422c-82b2-6e9b7e73bc4a")
 		)
@@ -2494,6 +2548,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 181.61 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 181.61 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 181.61 87.63 0)
 			(effects
 				(font
@@ -2579,6 +2651,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samtec Inc."
+			(at 119.38 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "3POS 0.100\" (2.54mm)"
 			(at 119.38 128.27 0)
 			(effects
 				(font
@@ -2804,6 +2894,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Samtec Inc."
+			(at 119.38 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "3POS 0.100\" (2.54mm)"
+			(at 119.38 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3931ec15-4665-41ed-9d48-9407ebb3c23c")
 		)
@@ -2887,6 +2995,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samtec Inc."
+			(at 119.38 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "3POS 0.100\" (2.54mm)"
 			(at 119.38 45.72 0)
 			(effects
 				(font
@@ -3099,6 +3225,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 111.76 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 111.76 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bbc09796-8a9e-4d80-ab2b-116d1b9291a8")
 		)
@@ -3236,6 +3380,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-07220RL/727061"
+			(at 171.45 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 171.45 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
 			(at 171.45 93.98 0)
 			(effects
 				(font
@@ -3395,6 +3557,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Samtec Inc."
+			(at 119.38 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "3POS 0.100\" (2.54mm)"
+			(at 119.38 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "effb18b7-85c6-48c4-927f-37e661c7ded9")
 		)
@@ -3462,6 +3642,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 111.76 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 111.76 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 111.76 90.17 0)
 			(effects
 				(font
@@ -3550,6 +3748,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/diotec-semiconductor/MMBT3904/13163698"
+			(at 180.34 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Diotec Semiconductor"
+			(at 180.34 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "TO-236-3, SC-59, SOT-23-3"
 			(at 180.34 93.98 0)
 			(effects
 				(font
@@ -3648,6 +3864,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 105.41 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
+			(at 105.41 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4012e76b-e650-4c22-a2af-d7286879fb84")
 		)
@@ -3728,6 +3962,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samtec Inc."
+			(at 119.38 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "3POS 0.100\" (2.54mm)"
 			(at 119.38 62.23 0)
 			(effects
 				(font
@@ -4129,6 +4381,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 111.76 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 111.76 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f602598f-6dd5-47f1-a83a-fd780e48509c")
 		)
@@ -4206,6 +4476,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samtec Inc."
+			(at 119.38 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "3POS 0.100\" (2.54mm)"
 			(at 119.38 161.29 0)
 			(effects
 				(font
@@ -4352,6 +4640,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 111.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 111.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e55dcf30-8c44-41bf-aa64-e76ced32f633")
 		)
@@ -4429,6 +4735,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samtec Inc."
+			(at 119.38 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "3POS 0.100\" (2.54mm)"
 			(at 119.38 95.25 0)
 			(effects
 				(font
@@ -4519,6 +4843,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/short/0f3djmh4"
+			(at 180.34 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 180.34 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
 			(at 180.34 77.47 0)
 			(effects
 				(font
@@ -4677,6 +5019,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 99.06 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805 (2012 Metric)"
+			(at 99.06 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1aa80a21-7892-49cb-9a47-1f0f7f53dd8b")
 		)
@@ -4827,6 +5187,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Samtec Inc."
+			(at 189.23 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "2POS 0.100\" (2.54mm)"
+			(at 189.23 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d5c3d0d9-8fb5-4139-a3c8-c8272f498a59")
 		)
@@ -4907,6 +5285,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samtec Inc."
+			(at 119.38 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "3POS 0.100\" (2.54mm)"
 			(at 119.38 177.8 0)
 			(effects
 				(font
@@ -4998,6 +5394,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/samtec-inc/TSM-103-01-TM-SV-P-TR/6691927"
+			(at 119.38 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samtec Inc."
+			(at 119.38 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "3POS 0.100\" (2.54mm)"
 			(at 119.38 29.21 0)
 			(effects
 				(font

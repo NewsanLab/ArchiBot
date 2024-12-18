@@ -5731,6 +5731,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 95.25 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
+			(at 95.25 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "892d0f62-3744-4b0a-a27d-d05d649b3284")
 		)
@@ -5946,6 +5964,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 162.56 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
+			(at 162.56 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c28e6ea4-714d-4787-88e6-a8f74e253d2b")
 		)
@@ -6023,6 +6059,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-0710KL/726880"
+			(at 95.25 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 95.25 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
 			(at 95.25 156.21 0)
 			(effects
 				(font
@@ -6112,6 +6166,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/wago-corporation/2060-452-998-404/15540283"
+			(at 176.53 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "WAGO Corporation"
+			(at 176.53 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0.157\" (4.00mm)"
 			(at 176.53 119.38 0)
 			(effects
 				(font
@@ -6339,6 +6411,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 95.25 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
+			(at 95.25 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8be9400d-381b-4a49-b668-fe2fb6f90852")
 		)
@@ -6418,6 +6508,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/TB6612FNG-C-8-EL/1730070"
+			(at 149.86 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Toshiba Semiconductor and Storage"
+			(at 149.86 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "24-LSSOP (0.220\", 5.60mm Width)"
 			(at 149.86 59.69 0)
 			(effects
 				(font
@@ -6564,6 +6672,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 172.72 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 172.72 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "81d8101c-b4a8-4abf-878a-6a0f10490924")
 		)
@@ -6625,6 +6751,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 172.72 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 172.72 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 172.72 46.99 0)
 			(effects
 				(font
@@ -6702,6 +6846,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 85.09 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 85.09 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "37e79943-cde0-47bc-93ad-7785ab50aea5")
 		)
@@ -6763,6 +6925,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 218.44 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 218.44 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 218.44 85.09 0)
 			(effects
 				(font
@@ -6847,6 +7027,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/murata-electronics/GRM1555C1H330JA01D/3693846"
+			(at 170.18 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 170.18 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402 (1005 Metric)"
 			(at 170.18 135.89 0)
 			(effects
 				(font
@@ -6942,6 +7140,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 170.18 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402 (1005 Metric)"
+			(at 170.18 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb29963b-2c67-4f8b-8c2d-5c63af942501")
 		)
@@ -7019,6 +7235,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-0710KL/726880"
+			(at 95.25 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 95.25 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
 			(at 95.25 161.29 0)
 			(effects
 				(font
@@ -7107,6 +7341,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/short/0f3djmh4"
+			(at 212.09 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 212.09 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
 			(at 212.09 87.63 0)
 			(effects
 				(font
@@ -7314,6 +7566,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 166.37 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 166.37 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "330964f8-7dae-4fbe-a457-7bad608e96c2")
 		)
@@ -7453,6 +7723,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/amphenol-cs-fci/91601-304ALF/1540494"
+			(at 228.6 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Amphenol ICC (FCI)"
+			(at 228.6 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "4POS 0.100\" (2.54mm)"
 			(at 228.6 86.36 0)
 			(effects
 				(font
@@ -7617,6 +7905,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 99.06 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
+			(at 99.06 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "17878ce0-b6e7-432e-b62d-c72ca51b5f8a")
 		)
@@ -7696,6 +8002,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/murata-electronics/GRM1555C1H330JA01D/3693846"
+			(at 170.18 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 170.18 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402 (1005 Metric)"
 			(at 170.18 64.77 0)
 			(effects
 				(font
@@ -7844,6 +8168,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-0710KL/726880"
+			(at 82.55 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 82.55 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
 			(at 82.55 92.71 0)
 			(effects
 				(font
@@ -8001,6 +8343,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 95.25 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
+			(at 95.25 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "65ed98e0-7291-450a-b169-4ab64638da94")
 		)
@@ -8086,6 +8446,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 95.25 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
+			(at 95.25 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b923e10c-3f6c-4253-97bc-6ee3f31311db")
 		)
@@ -8158,6 +8536,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 80.01 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 80.01 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cd6e21f5-283b-402c-be7d-a39853b3fb4e")
 		)
@@ -8219,6 +8615,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 166.37 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 166.37 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 166.37 55.88 0)
 			(effects
 				(font
@@ -8301,6 +8715,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-0710KL/726880"
+			(at 95.25 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 95.25 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
 			(at 95.25 166.37 0)
 			(effects
 				(font
@@ -8396,6 +8828,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 162.56 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
+			(at 162.56 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb3cf079-efab-4e88-9161-38f0c504763e")
 		)
@@ -8483,6 +8933,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 170.18 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402 (1005 Metric)"
+			(at 170.18 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "24a10c38-ad7e-4640-bb1d-be3b3c49a3de")
 		)
@@ -8562,6 +9030,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/875105544001/5147598"
+			(at 167.64 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Würth Elektronik"
+			(at 167.64 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Radial, Can - SMD (6.60mm x 6.60mm)"
 			(at 167.64 107.95 0)
 			(effects
 				(font
@@ -8769,6 +9255,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 167.64 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 167.64 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e8835235-1ddb-4b54-84d6-ef7d3c4dbe2b")
 		)
@@ -8845,6 +9349,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/short/0f3djmh4"
+			(at 137.16 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 137.16 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
 			(at 137.16 107.95 0)
 			(effects
 				(font
@@ -9070,6 +9592,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "WAGO Corporation"
+			(at 176.53 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0.157\" (4.00mm)"
+			(at 176.53 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "70c79170-14da-4b85-98b1-77b518750cb0")
 		)
@@ -9155,6 +9695,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/short/0f3djmh4"
+			(at 137.16 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 137.16 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
 			(at 137.16 36.83 0)
 			(effects
 				(font
@@ -9253,6 +9811,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "WAGO Corporation"
+			(at 176.53 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0.157\" (4.00mm)"
+			(at 176.53 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "99cb6ad7-e3cb-4449-afae-1a3b9f8ba284")
 		)
@@ -9323,6 +9899,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 166.37 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 166.37 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 166.37 59.69 0)
 			(effects
 				(font
@@ -9463,6 +10057,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 167.64 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 167.64 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "675f6c97-3f63-4ea8-a743-6403f5eafb13")
 		)
@@ -9524,6 +10136,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 218.44 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 218.44 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 218.44 90.17 0)
 			(effects
 				(font
@@ -9616,6 +10246,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Würth Elektronik"
+			(at 167.64 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Radial, Can - SMD (6.60mm x 6.60mm)"
+			(at 167.64 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "581b91c8-7a28-4d57-9a7f-3356849f749d")
 		)
@@ -9695,6 +10343,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/TB6612FNG-C-8-EL/1730070"
+			(at 149.86 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Toshiba Semiconductor and Storage"
+			(at 149.86 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "24-LSSOP (0.220\", 5.60mm Width)"
 			(at 149.86 130.81 0)
 			(effects
 				(font
@@ -9922,6 +10588,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Nexperia USA Inc."
+			(at 96.52 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "16-TSSOP (0.173\", 4.40mm Width)"
+			(at 96.52 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "15"
 			(uuid "51dafa55-b60a-4c27-a0ad-4205ae3ae38c")
 		)
@@ -10041,6 +10725,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-0710KL/726880"
+			(at 95.25 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 95.25 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
 			(at 95.25 135.89 0)
 			(effects
 				(font
@@ -10184,6 +10886,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 166.37 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 166.37 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eafc7b55-da94-450e-af77-51023cd52597")
 		)
@@ -10266,6 +10986,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 69.85 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
+			(at 69.85 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3489e209-5c98-46cb-b9cd-7dc44541269f")
 		)
@@ -10330,6 +11068,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 83.82 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 83.82 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 83.82 87.63 0)
 			(effects
 				(font
@@ -10416,6 +11172,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/wago-corporation/2060-452-998-404/15540283"
+			(at 176.53 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "WAGO Corporation"
+			(at 176.53 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0.157\" (4.00mm)"
 			(at 176.53 48.26 0)
 			(effects
 				(font

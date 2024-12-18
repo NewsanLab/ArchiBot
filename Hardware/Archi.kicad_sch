@@ -3493,6 +3493,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 137.16 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
+			(at 137.16 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6c96c7cf-5e2e-4e32-97fe-feddbca83220")
 		)
@@ -3771,6 +3789,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 129.54 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
+			(at 129.54 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bc55bd9d-c488-4267-9235-fcba10bb4b6c")
 		)
@@ -3847,6 +3883,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/adam-tech/PH1-08-UA/9830442"
+			(at 58.42 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Adam Tech"
+			(at 58.42 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "8POS 0.100\" (2.54mm)"
 			(at 58.42 62.23 0)
 			(effects
 				(font
@@ -3945,6 +3999,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 134.62 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 134.62 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0a7f1499-52fc-405a-83e6-a2ca729daabf")
 		)
@@ -4019,6 +4091,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/adam-tech/ph1-10-ua/9830653"
+			(at 68.58 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Adam Tech"
+			(at 68.58 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "10POS 0.100\" (2.54mm)"
 			(at 68.58 59.69 0)
 			(effects
 				(font
@@ -4115,6 +4205,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 53.34 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 53.34 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 53.34 50.8 0)
 			(effects
 				(font
@@ -4445,7 +4553,7 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "PTS645SM43SMTR92LFS"
+		(property "PartNumber" "PTS645SM43SMTR92 LFS"
 			(at 140.97 60.96 0)
 			(effects
 				(font
@@ -4455,6 +4563,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/short/0bzh950w"
+			(at 140.97 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "C&K"
+			(at 140.97 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Gull Wing 6.00mm x 6.00mm "
 			(at 140.97 60.96 0)
 			(effects
 				(font
@@ -4617,6 +4743,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Adam Tech"
+			(at 58.42 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "6POS 0.100\" (2.54mm)"
+			(at 58.42 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2c9f7272-ad32-4b35-ab69-83ba5f37fc31")
 		)
@@ -4714,6 +4858,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 133.35 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
+			(at 133.35 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dfc0eb1a-1d63-443c-ae53-d0095d6c9e15")
 		)
@@ -4801,6 +4963,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 133.35 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
+			(at 133.35 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2290cfb9-caf2-4b0d-8a5d-49224e7986ea")
 		)
@@ -4878,6 +5058,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/adam-tech/PH1-08-UA/9830442"
+			(at 68.58 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Adam Tech"
+			(at 68.58 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "8POS 0.100\" (2.54mm)"
 			(at 68.58 90.17 0)
 			(effects
 				(font
@@ -4976,6 +5174,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 134.62 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 134.62 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7bee01be-401a-430e-a1ab-fc8cfbadcc2b")
 		)
@@ -5050,6 +5266,24 @@
 			)
 		)
 		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-0710KL/726880"
+			(at 129.54 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 129.54 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 (1608 Metric)"
 			(at 129.54 96.52 0)
 			(effects
 				(font
