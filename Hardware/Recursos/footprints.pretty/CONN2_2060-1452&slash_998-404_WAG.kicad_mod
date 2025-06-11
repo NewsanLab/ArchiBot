@@ -1,7 +1,7 @@
 (footprint "CONN2_2060-1452&slash_998-404_WAG"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(tags "2060-1452/998-404 ")
 	(property "Reference" "REF**"
@@ -24,18 +24,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at -2 4.600001 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "0b72cc2d-724f-46bb-b652-1d1b09df110d")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -65,54 +53,6 @@
 		)
 	)
 	(attr through_hole)
-	(fp_poly
-		(pts
-			(xy -2 -4.688901) (xy -1.949201 -4.688901) (xy -1.949201 -4.600001) (xy -2 -4.600001)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.Paste")
-		(uuid "138904fe-c5a7-4dee-812a-3abbb48793fe")
-	)
-	(fp_poly
-		(pts
-			(xy -2 4.511101) (xy -1.949201 4.511101) (xy -1.949201 4.600001) (xy -2 4.600001)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.Paste")
-		(uuid "66f3374d-4bcb-46e5-b494-2403b76f254a")
-	)
-	(fp_poly
-		(pts
-			(xy 2.000001 -4.688901) (xy 2.050801 -4.688901) (xy 2.050801 -4.600001) (xy 2.000001 -4.600001)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.Paste")
-		(uuid "2bf1f637-e018-4a7f-b968-10ba10087e2b")
-	)
-	(fp_poly
-		(pts
-			(xy 2.000001 4.511101) (xy 2.050801 4.511101) (xy 2.050801 4.600001) (xy 2.000001 4.600001)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.Paste")
-		(uuid "a2ee9789-8db8-4a5d-b1eb-b14a31d79d55")
-	)
 	(fp_line
 		(start -4.0767 -6.6294)
 		(end -4.0767 6.3246)
@@ -152,6 +92,54 @@
 		)
 		(layer "F.SilkS")
 		(uuid "89e7f841-d60a-4ca4-a824-4e807ad66ec8")
+	)
+	(fp_poly
+		(pts
+			(xy -2 -4.688901) (xy -1.949201 -4.688901) (xy -1.949201 -4.600001) (xy -2 -4.600001)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "138904fe-c5a7-4dee-812a-3abbb48793fe")
+	)
+	(fp_poly
+		(pts
+			(xy -2 4.511101) (xy -1.949201 4.511101) (xy -1.949201 4.600001) (xy -2 4.600001)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "66f3374d-4bcb-46e5-b494-2403b76f254a")
+	)
+	(fp_poly
+		(pts
+			(xy 2.000001 -4.688901) (xy 2.050801 -4.688901) (xy 2.050801 -4.600001) (xy 2.000001 -4.600001)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "2bf1f637-e018-4a7f-b968-10ba10087e2b")
+	)
+	(fp_poly
+		(pts
+			(xy 2.000001 4.511101) (xy 2.050801 4.511101) (xy 2.050801 4.600001) (xy 2.000001 4.600001)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "a2ee9789-8db8-4a5d-b1eb-b14a31d79d55")
 	)
 	(fp_line
 		(start -4.2037 -6.7564)
@@ -240,7 +228,7 @@
 			(width 0.508)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "f62887b4-7db2-476e-b690-6d62aeb0ebcd")
 	)
@@ -256,6 +244,12 @@
 			)
 		)
 	)
+	(pad "1" smd rect
+		(at -2.000002 3.8)
+		(size 2 6.000001)
+		(layers "F.Cu" "F.Mask")
+		(uuid "851f7388-462d-4ec1-9647-ddaa12804302")
+	)
 	(pad "1" thru_hole circle
 		(at -2 4.600001)
 		(size 2.2 2.2)
@@ -263,6 +257,12 @@
 		(layers "*.Cu" "*.Mask" "F.Paste")
 		(remove_unused_layers no)
 		(uuid "a5309132-45bf-4b48-9378-1634c1d8cc2c")
+	)
+	(pad "2" smd rect
+		(at -2.000002 -5.45)
+		(size 2 3.500001)
+		(layers "F.Cu" "F.Mask")
+		(uuid "84e531f8-7152-4870-9907-b6d676975dae")
 	)
 	(pad "2" thru_hole circle
 		(at -2 -4.600001)
@@ -272,6 +272,12 @@
 		(remove_unused_layers no)
 		(uuid "d1fe8a45-14f1-4aca-adc5-6cd9808c5328")
 	)
+	(pad "3" smd rect
+		(at 2 3.8)
+		(size 2 6.000001)
+		(layers "F.Cu" "F.Mask")
+		(uuid "8358be90-659f-495e-b8d2-3bc1cc6ed400")
+	)
 	(pad "3" thru_hole circle
 		(at 2.000001 4.600001)
 		(size 2.2 2.2)
@@ -279,6 +285,12 @@
 		(layers "*.Cu" "*.Mask" "F.Paste")
 		(remove_unused_layers no)
 		(uuid "250de09c-aa76-44b9-a64d-698d0b5ef541")
+	)
+	(pad "4" smd rect
+		(at 2 -5.45)
+		(size 2 3.500001)
+		(layers "F.Cu" "F.Mask")
+		(uuid "024aeaea-7f24-48d6-b6a6-082da1e765cd")
 	)
 	(pad "4" thru_hole circle
 		(at 2.000001 -4.600001)
@@ -288,7 +300,9 @@
 		(remove_unused_layers no)
 		(uuid "14e9c8b7-6031-496e-80a4-4d36ff99522d")
 	)
+	(embedded_fonts no)
 	(model "${KIPRJMOD}/Recursos/footprints.pretty/2060-1452_998-404.stp"
+		(hide yes)
 		(offset
 			(xyz 4 -6.25 0)
 		)
@@ -297,6 +311,17 @@
 		)
 		(rotate
 			(xyz -90 0 90)
+		)
+	)
+	(model "C:/Users/instalador/Downloads/691214110002+(rev1).stp"
+		(offset
+			(xyz 0 -4.5 3)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
 		)
 	)
 )

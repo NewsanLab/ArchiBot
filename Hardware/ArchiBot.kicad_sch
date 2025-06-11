@@ -1,13 +1,13 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55")
 	(paper "A4")
 	(title_block
 		(title "Archi Bot")
-		(date "2024-09-27")
-		(rev "1.2")
+		(date "2025-05-28")
+		(rev "1.3")
 		(company "Newsan")
 	)
 	(lib_symbols
@@ -89,7 +89,131 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
+	)
+	(text "Fuente de \nalimentación"
+		(exclude_from_sim no)
+		(at 82.042 108.458 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "258b7fcb-aad1-4115-9ecc-d0bbdab059f5")
+	)
+	(text "Araña"
+		(exclude_from_sim no)
+		(at 196.596 83.058 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "332820b9-147c-41cb-ba53-b360d184ed1a")
+	)
+	(text "Auto"
+		(exclude_from_sim no)
+		(at 196.342 124.46 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "4e0ffd2e-7553-45b9-96b9-c192d639de95")
+	)
+	(text "Version: ${REVISION}"
+		(exclude_from_sim no)
+		(at 273.812 16.764 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "590aae6e-ce92-4095-96a5-8e410317f810")
+	)
+	(text "${TITLE}"
+		(exclude_from_sim no)
+		(at 139.192 21.336 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "798e8dbd-23c4-4543-96bd-a61a9eb01db2")
+	)
+	(text "Archi"
+		(exclude_from_sim no)
+		(at 122.428 107.95 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "91b250ca-940d-4704-abee-5b97d8d40e61")
+	)
+	(text "Láser y servos"
+		(exclude_from_sim no)
+		(at 196.85 90.678 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+				(bold yes)
+			)
+		)
+		(uuid "ca4fc41c-fe57-4e2a-b3b1-a92e386e3e3a")
+	)
+	(text "Drivers de motores"
+		(exclude_from_sim no)
+		(at 195.58 130.302 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+				(bold yes)
+			)
+		)
+		(uuid "ceef3d0c-d41b-426e-a612-e704983cd176")
+	)
+	(text "Selección y \nBluetooth"
+		(exclude_from_sim no)
+		(at 162.814 110.49 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "eb77e05d-f47c-4cf8-878a-0cb140ad8f3b")
+	)
+	(text_box ""
+		(exclude_from_sim no)
+		(at 218.44 177.8 0)
+		(size 22.86 3.81)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type default)
+			(color 132 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+			(href "https://archikids.com.ar")
+		)
+		(uuid "cc2ce820-0b25-477d-aa6d-728830dbd0c5")
 	)
 	(junction
 		(at 143.51 125.73)
@@ -407,128 +531,6 @@
 		)
 		(uuid "fa461349-98de-4c72-b8c7-e039d2d69ece")
 	)
-	(text_box ""
-		(exclude_from_sim no)
-		(at 218.44 177.8 0)
-		(size 22.86 3.81)
-		(stroke
-			(width 0)
-			(type default)
-			(color 132 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left top)
-			(href "https://archikids.com.ar")
-		)
-		(uuid "cc2ce820-0b25-477d-aa6d-728830dbd0c5")
-	)
-	(text "Fuente de \nalimentación"
-		(exclude_from_sim no)
-		(at 82.042 108.458 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-		)
-		(uuid "258b7fcb-aad1-4115-9ecc-d0bbdab059f5")
-	)
-	(text "Araña"
-		(exclude_from_sim no)
-		(at 196.596 83.058 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(bold yes)
-			)
-		)
-		(uuid "332820b9-147c-41cb-ba53-b360d184ed1a")
-	)
-	(text "Auto"
-		(exclude_from_sim no)
-		(at 196.342 124.46 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(bold yes)
-			)
-		)
-		(uuid "4e0ffd2e-7553-45b9-96b9-c192d639de95")
-	)
-	(text "Version: ${REVISION}"
-		(exclude_from_sim no)
-		(at 273.812 16.764 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(bold yes)
-			)
-		)
-		(uuid "590aae6e-ce92-4095-96a5-8e410317f810")
-	)
-	(text "${TITLE}"
-		(exclude_from_sim no)
-		(at 139.192 21.336 0)
-		(effects
-			(font
-				(size 5.08 5.08)
-				(thickness 2.54)
-				(bold yes)
-			)
-		)
-		(uuid "798e8dbd-23c4-4543-96bd-a61a9eb01db2")
-	)
-	(text "Archi"
-		(exclude_from_sim no)
-		(at 122.428 107.95 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(bold yes)
-			)
-		)
-		(uuid "91b250ca-940d-4704-abee-5b97d8d40e61")
-	)
-	(text "Láser y servos"
-		(exclude_from_sim no)
-		(at 196.85 90.678 0)
-		(effects
-			(font
-				(size 2.032 2.032)
-				(bold yes)
-			)
-		)
-		(uuid "ca4fc41c-fe57-4e2a-b3b1-a92e386e3e3a")
-	)
-	(text "Drivers de motores"
-		(exclude_from_sim no)
-		(at 195.58 130.302 0)
-		(effects
-			(font
-				(size 2.032 2.032)
-				(bold yes)
-			)
-		)
-		(uuid "ceef3d0c-d41b-426e-a612-e704983cd176")
-	)
-	(text "Selección y \nBluetooth"
-		(exclude_from_sim no)
-		(at 162.814 110.49 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(bold yes)
-			)
-		)
-		(uuid "eb77e05d-f47c-4cf8-878a-0cb140ad8f3b")
-	)
 	(symbol
 		(lib_id "Mechanical:Fiducial")
 		(at 69.85 146.05 0)
@@ -778,6 +780,10 @@
 	(sheet
 		(at 179.07 71.12)
 		(size 30.48 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -807,113 +813,113 @@
 		)
 		(pin "GP17" input
 			(at 179.07 86.36 180)
+			(uuid "d6fc949e-c830-4885-b172-b10877ae894c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "d6fc949e-c830-4885-b172-b10877ae894c")
 		)
 		(pin "GP18" input
 			(at 179.07 88.9 180)
+			(uuid "9146c8a3-3d59-4999-955f-7cffe8449881")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "9146c8a3-3d59-4999-955f-7cffe8449881")
 		)
 		(pin "GP13" input
 			(at 179.07 76.2 180)
+			(uuid "f52d1844-6f35-4330-bad3-2445d19cfd18")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f52d1844-6f35-4330-bad3-2445d19cfd18")
 		)
 		(pin "SRV11" input
 			(at 179.07 102.87 180)
+			(uuid "f310e68c-9ee4-4d97-8270-0c18695a71af")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f310e68c-9ee4-4d97-8270-0c18695a71af")
 		)
 		(pin "LASER" input
 			(at 179.07 73.66 180)
+			(uuid "be21399f-ae94-418e-93ce-99b71f98fb8f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "be21399f-ae94-418e-93ce-99b71f98fb8f")
 		)
 		(pin "SRV05" input
 			(at 179.07 100.33 180)
+			(uuid "058d7588-fac3-427c-ac6f-c4989c610d3d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "058d7588-fac3-427c-ac6f-c4989c610d3d")
 		)
 		(pin "SRV03" input
 			(at 179.07 95.25 180)
+			(uuid "73163fee-8444-4dd3-867c-e99239a5e961")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "73163fee-8444-4dd3-867c-e99239a5e961")
 		)
 		(pin "SRV04" input
 			(at 179.07 97.79 180)
+			(uuid "adc87e17-72fb-4520-a12c-11af41b105fb")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "adc87e17-72fb-4520-a12c-11af41b105fb")
 		)
 		(pin "GP15" input
 			(at 179.07 81.28 180)
+			(uuid "f56a4be7-4b09-430d-b2fa-c12223187174")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f56a4be7-4b09-430d-b2fa-c12223187174")
 		)
 		(pin "GP14" input
 			(at 179.07 78.74 180)
+			(uuid "3032010c-0099-40b9-b7ee-a7789de5569f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "3032010c-0099-40b9-b7ee-a7789de5569f")
 		)
 		(pin "GP16" input
 			(at 179.07 83.82 180)
+			(uuid "c10281ed-c655-4295-8768-054cc9b623e0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c10281ed-c655-4295-8768-054cc9b623e0")
 		)
 		(instances
 			(project "ArchiBot"
@@ -926,6 +932,10 @@
 	(sheet
 		(at 66.04 96.52)
 		(size 33.02 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -964,6 +974,10 @@
 	(sheet
 		(at 147.32 92.71)
 		(size 25.4 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -993,163 +1007,163 @@
 		)
 		(pin "TX" input
 			(at 147.32 96.52 180)
+			(uuid "db74c34a-89a5-4b07-8067-dd081eb44858")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "db74c34a-89a5-4b07-8067-dd081eb44858")
 		)
 		(pin "RX" output
 			(at 147.32 99.06 180)
+			(uuid "e355f137-8a95-4d0c-a23a-5e28ed315e57")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "e355f137-8a95-4d0c-a23a-5e28ed315e57")
 		)
 		(pin "GP03" input
 			(at 147.32 109.22 180)
+			(uuid "248f282b-34d4-4f75-a177-5fd31cbdd498")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "248f282b-34d4-4f75-a177-5fd31cbdd498")
 		)
 		(pin "GP11" input
 			(at 147.32 116.84 180)
+			(uuid "3f046efe-bf0b-4857-a3c1-79d060570917")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "3f046efe-bf0b-4857-a3c1-79d060570917")
 		)
 		(pin "SELECT" input
 			(at 147.32 125.73 180)
+			(uuid "91fc4490-f545-40b3-934c-d3162658c647")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "91fc4490-f545-40b3-934c-d3162658c647")
 		)
 		(pin "GP04" input
 			(at 147.32 111.76 180)
+			(uuid "0e115cae-a200-4c2b-bdf7-adcd9cd41dc2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "0e115cae-a200-4c2b-bdf7-adcd9cd41dc2")
 		)
 		(pin "GP05" input
 			(at 147.32 114.3 180)
+			(uuid "d2003593-1a58-4787-b9a7-c0ab33d6b597")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "d2003593-1a58-4787-b9a7-c0ab33d6b597")
 		)
 		(pin "EN1" output
 			(at 172.72 116.84 0)
+			(uuid "6f7e3a1c-25c5-4926-ba86-3d40bd764387")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "6f7e3a1c-25c5-4926-ba86-3d40bd764387")
 		)
 		(pin "SRV05" output
 			(at 172.72 100.33 0)
+			(uuid "bcf7cf26-59ac-4722-b1bb-509ad499f293")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "bcf7cf26-59ac-4722-b1bb-509ad499f293")
 		)
 		(pin "SRV04" output
 			(at 172.72 97.79 0)
+			(uuid "96630c06-2cd9-4691-b9ea-9af4e07f42a6")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "96630c06-2cd9-4691-b9ea-9af4e07f42a6")
 		)
 		(pin "SRV03" output
 			(at 172.72 95.25 0)
+			(uuid "78793239-1ddd-4a25-ade0-31ee1e8ae405")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "78793239-1ddd-4a25-ade0-31ee1e8ae405")
 		)
 		(pin "EN3" output
 			(at 172.72 121.92 0)
+			(uuid "bc698ab5-49cd-4972-9d1c-bbf189a84850")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "bc698ab5-49cd-4972-9d1c-bbf189a84850")
 		)
 		(pin "EN2" output
 			(at 172.72 119.38 0)
+			(uuid "8444644e-0a8c-4ea6-aeb9-5ab0bf0feb31")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "8444644e-0a8c-4ea6-aeb9-5ab0bf0feb31")
 		)
 		(pin "EN4" output
 			(at 172.72 124.46 0)
+			(uuid "c57e8741-7dac-401d-87c0-3d0ae1fe6e4d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c57e8741-7dac-401d-87c0-3d0ae1fe6e4d")
 		)
 		(pin "SRV11" output
 			(at 172.72 102.87 0)
+			(uuid "defde9e7-1e32-43c2-900b-1732986bd39e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "defde9e7-1e32-43c2-900b-1732986bd39e")
 		)
 		(pin "N_SEL" output
 			(at 172.72 127 0)
+			(uuid "7cd327ec-62e4-4ded-a317-81a0c0f31ca1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "7cd327ec-62e4-4ded-a317-81a0c0f31ca1")
 		)
 		(instances
 			(project "ArchiBot"
@@ -1162,6 +1176,10 @@
 	(sheet
 		(at 109.22 69.85)
 		(size 29.21 82.55)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1191,193 +1209,193 @@
 		)
 		(pin "LASER" output
 			(at 138.43 73.66 0)
+			(uuid "f9377f9d-7e92-470c-90be-43adcbc719af")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "f9377f9d-7e92-470c-90be-43adcbc719af")
 		)
 		(pin "GP15" output
 			(at 138.43 81.28 0)
+			(uuid "01feb4fc-c415-499a-bbfb-3dcb9d91168e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "01feb4fc-c415-499a-bbfb-3dcb9d91168e")
 		)
 		(pin "GP14" output
 			(at 138.43 78.74 0)
+			(uuid "e06444b5-0d33-451d-8ce4-f7ed49af129e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "e06444b5-0d33-451d-8ce4-f7ed49af129e")
 		)
 		(pin "GP13" output
 			(at 138.43 76.2 0)
+			(uuid "bb8b6cec-549a-4ca9-8195-c46520d61eeb")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "bb8b6cec-549a-4ca9-8195-c46520d61eeb")
 		)
 		(pin "SELECT" output
 			(at 138.43 125.73 0)
+			(uuid "e4bffb97-be4e-41a1-a383-d212894e3f74")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "e4bffb97-be4e-41a1-a383-d212894e3f74")
 		)
 		(pin "GP11" output
 			(at 138.43 116.84 0)
+			(uuid "d4f7f115-1bc6-46be-b5df-1142c856767e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "d4f7f115-1bc6-46be-b5df-1142c856767e")
 		)
 		(pin "GP17" output
 			(at 138.43 86.36 0)
+			(uuid "2c231d40-61d1-47a7-addc-cfee81fed475")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "2c231d40-61d1-47a7-addc-cfee81fed475")
 		)
 		(pin "GP16" output
 			(at 138.43 83.82 0)
+			(uuid "797b160d-51cd-4747-a730-794ecef38a10")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "797b160d-51cd-4747-a730-794ecef38a10")
 		)
 		(pin "DIR_LATCH" output
 			(at 138.43 139.7 0)
+			(uuid "30408ac2-40d3-41ee-92b1-7d0a7d6e6dfa")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "30408ac2-40d3-41ee-92b1-7d0a7d6e6dfa")
 		)
 		(pin "GP05" output
 			(at 138.43 114.3 0)
+			(uuid "7e63a631-acd5-42de-8573-427f4acb4baf")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "7e63a631-acd5-42de-8573-427f4acb4baf")
 		)
 		(pin "DIR_SER" output
 			(at 138.43 137.16 0)
+			(uuid "0d0c3493-ffdc-4ae0-919c-fc35b1646b85")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "0d0c3493-ffdc-4ae0-919c-fc35b1646b85")
 		)
 		(pin "DIR_CLK" output
 			(at 138.43 134.62 0)
+			(uuid "ae373f4a-c91e-4f98-b827-83a7e5129368")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ae373f4a-c91e-4f98-b827-83a7e5129368")
 		)
 		(pin "GP04" output
 			(at 138.43 111.76 0)
+			(uuid "702ff092-b8a5-49c8-8569-df9d848728dc")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "702ff092-b8a5-49c8-8569-df9d848728dc")
 		)
 		(pin "GP03" output
 			(at 138.43 109.22 0)
+			(uuid "c970111e-f6a2-4ab6-88c4-bf9ac77954d2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c970111e-f6a2-4ab6-88c4-bf9ac77954d2")
 		)
 		(pin "GP18" output
 			(at 138.43 88.9 0)
+			(uuid "b58af3b9-8c20-436b-9d3b-11ec53545c8f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "b58af3b9-8c20-436b-9d3b-11ec53545c8f")
 		)
 		(pin "TRIG" output
 			(at 138.43 147.32 0)
+			(uuid "20f47bb2-6e85-402c-9547-fbb8a750ef1a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "20f47bb2-6e85-402c-9547-fbb8a750ef1a")
 		)
 		(pin "ECHO" input
 			(at 138.43 144.78 0)
+			(uuid "cbe89d11-0d3e-4bc6-934e-6cba2d429acb")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "cbe89d11-0d3e-4bc6-934e-6cba2d429acb")
 		)
 		(pin "RX" input
 			(at 138.43 99.06 0)
+			(uuid "afdc8bda-f239-409d-89c2-d6077f30703a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "afdc8bda-f239-409d-89c2-d6077f30703a")
 		)
 		(pin "TX" output
 			(at 138.43 96.52 0)
+			(uuid "9fb1ea7c-2006-4385-a148-4286bec59741")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "9fb1ea7c-2006-4385-a148-4286bec59741")
 		)
 		(instances
 			(project "ArchiBot"
@@ -1390,6 +1408,10 @@
 	(sheet
 		(at 179.07 114.3)
 		(size 30.48 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1419,113 +1441,113 @@
 		)
 		(pin "EN3" input
 			(at 179.07 121.92 180)
+			(uuid "ef98d262-2a4a-4b2a-98ff-f63c299f1854")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "ef98d262-2a4a-4b2a-98ff-f63c299f1854")
 		)
 		(pin "EN4" input
 			(at 179.07 124.46 180)
+			(uuid "150158a3-1aee-4670-907f-535b1db1dfe7")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "150158a3-1aee-4670-907f-535b1db1dfe7")
 		)
 		(pin "EN1" input
 			(at 179.07 116.84 180)
+			(uuid "2c03fff0-3c3c-4e3c-a4af-a144cede3a90")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "2c03fff0-3c3c-4e3c-a4af-a144cede3a90")
 		)
 		(pin "EN2" input
 			(at 179.07 119.38 180)
+			(uuid "45266218-0c9b-4759-b9b9-c05499387404")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "45266218-0c9b-4759-b9b9-c05499387404")
 		)
 		(pin "TRIG" input
 			(at 179.07 147.32 180)
+			(uuid "bb7facd5-72b8-42d1-94b8-2b4d6dde8bde")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "bb7facd5-72b8-42d1-94b8-2b4d6dde8bde")
 		)
 		(pin "ECHO" output
 			(at 179.07 144.78 180)
+			(uuid "55e6069a-c5b9-40a5-a8ab-9b3916f60f8b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "55e6069a-c5b9-40a5-a8ab-9b3916f60f8b")
 		)
 		(pin "DIR_LATCH" input
 			(at 179.07 139.7 180)
+			(uuid "f38b9663-6100-4f97-9ecd-be93e3b7f135")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f38b9663-6100-4f97-9ecd-be93e3b7f135")
 		)
 		(pin "DIR_SER" input
 			(at 179.07 137.16 180)
+			(uuid "311a8313-b783-4fed-bef1-8564daa6c1b5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "311a8313-b783-4fed-bef1-8564daa6c1b5")
 		)
 		(pin "SELECT" input
 			(at 179.07 132.08 180)
+			(uuid "72b84d46-582b-4e45-b772-91c67d7c6238")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "72b84d46-582b-4e45-b772-91c67d7c6238")
 		)
 		(pin "DIR_CLK" input
 			(at 179.07 134.62 180)
+			(uuid "48632b30-6988-401a-8bf4-86f18829f16f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "48632b30-6988-401a-8bf4-86f18829f16f")
 		)
 		(pin "N_SEL" input
 			(at 179.07 127 180)
+			(uuid "38d7f533-8c18-4f35-bd4b-2603a1e9dff6")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "38d7f533-8c18-4f35-bd4b-2603a1e9dff6")
 		)
 		(instances
 			(project "ArchiBot"
@@ -1540,4 +1562,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )

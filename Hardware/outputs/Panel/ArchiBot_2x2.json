@@ -8,8 +8,8 @@
     },
     "tabs": {
         "type": "fixed",
-        "vwidth": "15mm",
-        "hwidth": "15mm"
+        "vwidth": "60mm",
+        "hwidth": "30mm"
     },
     "cuts": {
         "type": "vcuts",
@@ -33,7 +33,8 @@
         "type": "3fid",
         "hoffset": "15mm",
         "voffset": "5mm",
-        "opening": "2mm"
+        "opening": "2mm",
+        "paste": "True"
     },
     "copperfill": {
         "type": "solid",
