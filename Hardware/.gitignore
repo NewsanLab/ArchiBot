@@ -32,10 +32,8 @@ fp-info-cache
 # Footprint association file (exported from Pcbnew)
 *.cmp
 
-# Exported BOM files
-*.xml
-*.csv
-*.tsv
+# Exported files
+/outputs
 
 # Misc
 *.log
