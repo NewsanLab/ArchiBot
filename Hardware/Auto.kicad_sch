@@ -6,751 +6,11 @@
 	(paper "A4")
 	(title_block
 		(title "Archi Bot")
-		(date "2025-05-28")
-		(rev "1.3")
+		(date "2025-06-11")
+		(rev "1.4")
 		(company "Newsan")
 	)
 	(lib_symbols
-		(symbol "2024-09-06_13-56-18:2060-452_998-404"
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 6.35 6.35 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "2060-452/998-404"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" "footprints:CONN2_2060-452&slash_998-404_WAG"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "2060-452/998-404"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at -2.54 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "2060-452/998-404"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "CONN2_2060-452/998-404_WAG"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "2060-452_998-404_1_1"
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy 2.54 -10.16)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -10.16) (xy 10.16 -10.16)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 5.08 -2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 5.08 0)
-					(radius 0.127)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 5.08 -2.54)
-					(radius 0.127)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 -5.08) (xy 5.08 -7.62)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 5.08 -5.08)
-					(radius 0.127)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 5.08 -7.62)
-					(radius 0.127)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 6.35 0.8467)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 6.35 -0.8467)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 2.54 -2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 6.35 -1.6933)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 6.35 -3.3867)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -5.08) (xy 2.54 -5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -5.08) (xy 6.35 -4.2333)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -5.08) (xy 6.35 -5.9267)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -7.62) (xy 2.54 -7.62)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -7.62) (xy 6.35 -6.7733)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -7.62) (xy 6.35 -8.4667)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 2.54) (xy 2.54 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -10.16) (xy 10.16 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at 0 0 0)
-					(length 2.54)
-					(name "1_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -2.54 0)
-					(length 2.54)
-					(name "1_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -5.08 0)
-					(length 2.54)
-					(name "2_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -7.62 0)
-					(length 2.54)
-					(name "2_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "2060-452_998-404_1_2"
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 5.08 -10.16)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 -10.16) (xy 12.7 -10.16)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 7.62 -2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 7.62 0)
-					(radius 0.127)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 7.62 -2.54)
-					(radius 0.127)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -5.08) (xy 7.62 -7.62)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 7.62 -5.08)
-					(radius 0.127)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 7.62 -7.62)
-					(radius 0.127)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 8.89 0.8467)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 8.89 -0.8467)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -2.54) (xy 5.08 -2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -2.54) (xy 8.89 -1.6933)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -2.54) (xy 8.89 -3.3867)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -5.08) (xy 5.08 -5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -5.08) (xy 8.89 -4.2333)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -5.08) (xy 8.89 -5.9267)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -7.62) (xy 5.08 -7.62)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -7.62) (xy 8.89 -6.7733)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -7.62) (xy 8.89 -8.4667)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 2.54) (xy 5.08 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 -10.16) (xy 12.7 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "1_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "2_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -7.62 0)
-					(length 5.08)
-					(name "2_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "74xx:74HC595"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1218,6 +478,148 @@
 						)
 					)
 					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Connector_Generic:Conn_01x02"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x02_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2869,12 +2271,6 @@
 		(uuid "1041e91e-1afd-4c2e-94dd-0a9a304d48ef")
 	)
 	(junction
-		(at 175.26 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "15a980d9-257d-42fa-834d-874c770d3184")
-	)
-	(junction
 		(at 91.44 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2911,12 +2307,6 @@
 		(uuid "24ea29fa-04ce-4b76-afa6-7765caa30ed0")
 	)
 	(junction
-		(at 175.26 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2646c4af-4caf-4f60-9c1f-42e970716dcd")
-	)
-	(junction
 		(at 170.18 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2927,18 +2317,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2c65f4f0-8cdf-4ac1-9aec-0c06f175800e")
-	)
-	(junction
-		(at 175.26 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "31223873-d696-4d90-ab44-49b63fb443c1")
-	)
-	(junction
-		(at 175.26 48.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "386c8ed3-57a8-4dfd-952b-683643508c2e")
 	)
 	(junction
 		(at 222.25 88.9)
@@ -3013,28 +2391,10 @@
 		(uuid "8999122a-2ae5-45ca-8561-cb21f59f8398")
 	)
 	(junction
-		(at 175.26 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8e3c390d-50a5-4ffc-946a-de7ac398eb7b")
-	)
-	(junction
-		(at 175.26 60.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8eac8a23-c051-4c05-9848-8943555f5bd4")
-	)
-	(junction
 		(at 157.48 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95a48b88-a75d-4167-b103-f1c5d9c03388")
-	)
-	(junction
-		(at 175.26 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "96346551-2057-4b10-8bb6-e01d7161221a")
 	)
 	(junction
 		(at 91.44 140.97)
@@ -3095,12 +2455,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b9f4c6dd-8fcd-4d2e-ad4b-23ad499661bd")
-	)
-	(junction
-		(at 175.26 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ba4f1cde-a202-431d-a9f2-d58331ac9ccb")
 	)
 	(junction
 		(at 142.24 157.48)
@@ -3378,16 +2732,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 119.38) (xy 175.26 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "138f6c6e-6925-42e0-b0f6-a3f16f908f12")
-	)
-	(wire
-		(pts
 			(xy 176.53 50.8) (xy 175.26 50.8)
 		)
 		(stroke
@@ -3445,16 +2789,6 @@
 			(type default)
 		)
 		(uuid "1d93c893-7826-4dd9-8801-f71ed0161ba7")
-	)
-	(wire
-		(pts
-			(xy 175.26 55.88) (xy 176.53 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d9ed171-909b-47f6-8676-0411f3f26239")
 	)
 	(wire
 		(pts
@@ -3525,16 +2859,6 @@
 			(type default)
 		)
 		(uuid "20d5ab1b-5acd-4eb9-b4f1-e30af2af04d7")
-	)
-	(wire
-		(pts
-			(xy 176.53 132.08) (xy 175.26 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "231928f8-439e-42f5-934b-6b0544aeb91c")
 	)
 	(wire
 		(pts
@@ -4078,26 +3402,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 48.26) (xy 175.26 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "607a4595-1fb6-43ae-8373-5220a1232e9f")
-	)
-	(wire
-		(pts
-			(xy 176.53 60.96) (xy 175.26 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61557607-0345-42e7-a71c-98d28639157c")
-	)
-	(wire
-		(pts
 			(xy 167.64 104.14) (xy 162.56 104.14)
 		)
 		(stroke
@@ -4498,16 +3802,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 127) (xy 176.53 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d9b3cbe-34c9-444f-bd0c-90c63cfe297d")
-	)
-	(wire
-		(pts
 			(xy 175.26 66.04) (xy 175.26 68.58)
 		)
 		(stroke
@@ -4858,16 +4152,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 68.58) (xy 175.26 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c14e461d-6a0d-4753-a238-56012086eafa")
-	)
-	(wire
-		(pts
 			(xy 176.53 121.92) (xy 175.26 121.92)
 		)
 		(stroke
@@ -5215,16 +4499,6 @@
 			(type default)
 		)
 		(uuid "f64cb24c-e7e4-4bd8-b93e-e23f6059635c")
-	)
-	(wire
-		(pts
-			(xy 176.53 139.7) (xy 175.26 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9600006-cc2f-4453-9cc9-eb400c485371")
 	)
 	(wire
 		(pts
@@ -6108,8 +5382,8 @@
 		)
 	)
 	(symbol
-		(lib_id "2024-09-06_13-56-18:2060-452_998-404")
-		(at 176.53 119.38 0)
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 181.61 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6117,7 +5391,7 @@
 		(dnp no)
 		(uuid "14603d86-1887-4427-a2a6-6fc04bbd2ffd")
 		(property "Reference" "J11"
-			(at 187.198 121.92 0)
+			(at 180.34 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6126,7 +5400,7 @@
 			)
 		)
 		(property "Value" "M3"
-			(at 187.452 124.46 0)
+			(at 183.388 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6134,28 +5408,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints:CONN2_2060-1452&slash_998-404_WAG"
-			(at 176.53 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.wago.com/global/pcb-terminal-blocks-and-pluggable-connectors/thr-terminal-block-with-push-buttons-in-tape-and-reel-packing/p/2060-1452_998-404"
-			(at 176.53 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "THR PCB TERMINAL BLOCK PUSH-BUT 4MM"
-			(at 173.99 119.38 0)
+		(property "Footprint" "footprints:691214310002"
+			(at 181.61 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6163,8 +5417,8 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "2060-1452/998-404"
-			(at 176.53 119.38 0)
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691214310002.pdf"
+			(at 181.61 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6172,8 +5426,8 @@
 				(hide yes)
 			)
 		)
-		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/wago-corporation/2060-452-998-404/15540283"
-			(at 176.53 119.38 0)
+		(property "Description" "TERM BLK 2POS SIDE ENT 3.81MM HOR"
+			(at 181.61 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6181,8 +5435,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "WAGO Corporation"
-			(at 176.53 119.38 0)
+		(property "PartNumber" "691214310002"
+			(at 181.61 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6190,8 +5444,26 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "0.157\" (4.00mm)"
-			(at 176.53 119.38 0)
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/691214310002/11477478"
+			(at 181.61 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Würth Elektronik"
+			(at 181.61 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0.150\" (3.81mm)"
+			(at 181.61 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6204,12 +5476,6 @@
 		)
 		(pin "2"
 			(uuid "c554b127-1b41-4d49-bd1f-679c13b1e0ce")
-		)
-		(pin "3"
-			(uuid "ee8fb335-a01a-45f6-8559-fdba125278ee")
-		)
-		(pin "4"
-			(uuid "d019bf73-a8d2-4134-969b-dcd83e96cbe5")
 		)
 		(instances
 			(project "ArchiBot"
@@ -9525,8 +8791,8 @@
 		)
 	)
 	(symbol
-		(lib_id "2024-09-06_13-56-18:2060-452_998-404")
-		(at 176.53 68.58 0)
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 181.61 66.04 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9535,7 +8801,7 @@
 		(dnp no)
 		(uuid "b701bce9-ce4a-4162-9d25-678905b9f42d")
 		(property "Reference" "J9"
-			(at 186.944 62.992 0)
+			(at 180.848 60.706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9544,7 +8810,7 @@
 			)
 		)
 		(property "Value" "M1"
-			(at 186.944 65.532 0)
+			(at 183.388 65.024 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9552,28 +8818,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints:CONN2_2060-1452&slash_998-404_WAG"
-			(at 176.53 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.wago.com/global/pcb-terminal-blocks-and-pluggable-connectors/thr-terminal-block-with-push-buttons-in-tape-and-reel-packing/p/2060-1452_998-404"
-			(at 176.53 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "THR PCB TERMINAL BLOCK PUSH-BUT 4MM"
-			(at 173.99 68.58 0)
+		(property "Footprint" "footprints:691214310002"
+			(at 181.61 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9581,8 +8827,8 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "2060-1452/998-404"
-			(at 176.53 68.58 0)
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691214310002.pdf"
+			(at 181.61 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9590,8 +8836,8 @@
 				(hide yes)
 			)
 		)
-		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/wago-corporation/2060-452-998-404/15540283"
-			(at 176.53 68.58 0)
+		(property "Description" "TERM BLK 2POS SIDE ENT 3.81MM HOR"
+			(at 181.61 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9599,8 +8845,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "WAGO Corporation"
-			(at 176.53 68.58 0)
+		(property "PartNumber" "691214310002"
+			(at 181.61 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9608,8 +8854,26 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "0.157\" (4.00mm)"
-			(at 176.53 68.58 0)
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/691214310002/11477478"
+			(at 181.61 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Würth Elektronik"
+			(at 181.61 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0.150\" (3.81mm)"
+			(at 181.61 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9622,12 +8886,6 @@
 		)
 		(pin "2"
 			(uuid "94a291cc-283f-4e36-9ed5-21d3aadc1601")
-		)
-		(pin "4"
-			(uuid "103a82eb-252b-4716-96db-393ed664cf0c")
-		)
-		(pin "3"
-			(uuid "9587d9f4-c993-4f72-ad5f-f746e9faf04b")
 		)
 		(instances
 			(project "ArchiBot"
@@ -9744,8 +9002,8 @@
 		)
 	)
 	(symbol
-		(lib_id "2024-09-06_13-56-18:2060-452_998-404")
-		(at 176.53 139.7 0)
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 181.61 137.16 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9754,7 +9012,7 @@
 		(dnp no)
 		(uuid "c7bbedbc-7add-4069-98c7-23a9b29a63b2")
 		(property "Reference" "J12"
-			(at 186.944 136.906 0)
+			(at 180.34 131.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9763,7 +9021,7 @@
 			)
 		)
 		(property "Value" "M4"
-			(at 187.198 139.7 0)
+			(at 183.388 136.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9771,28 +9029,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints:CONN2_2060-1452&slash_998-404_WAG"
-			(at 176.53 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.wago.com/global/pcb-terminal-blocks-and-pluggable-connectors/thr-terminal-block-with-push-buttons-in-tape-and-reel-packing/p/2060-1452_998-404"
-			(at 176.53 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "THR PCB TERMINAL BLOCK PUSH-BUT 4MM"
-			(at 173.99 139.7 0)
+		(property "Footprint" "footprints:691214310002"
+			(at 181.61 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9800,8 +9038,8 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "2060-1452/998-404"
-			(at 176.53 139.7 0)
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691214310002.pdf"
+			(at 181.61 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9809,8 +9047,8 @@
 				(hide yes)
 			)
 		)
-		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/wago-corporation/2060-452-998-404/15540283"
-			(at 176.53 139.7 0)
+		(property "Description" "TERM BLK 2POS SIDE ENT 3.81MM HOR"
+			(at 181.61 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9818,8 +9056,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "WAGO Corporation"
-			(at 176.53 139.7 0)
+		(property "PartNumber" "691214310002"
+			(at 181.61 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9827,8 +9065,26 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "0.157\" (4.00mm)"
-			(at 176.53 139.7 0)
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/691214310002/11477478"
+			(at 181.61 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Würth Elektronik"
+			(at 181.61 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0.150\" (3.81mm)"
+			(at 181.61 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9841,12 +9097,6 @@
 		)
 		(pin "2"
 			(uuid "324bb5cd-9be8-48d8-8644-5469c4280670")
-		)
-		(pin "4"
-			(uuid "ce8fb473-4ca1-4769-9d07-b2cfcaacc684")
-		)
-		(pin "3"
-			(uuid "24cb2967-5470-4ad8-90a3-1bdac5a41875")
 		)
 		(instances
 			(project "ArchiBot"
@@ -11114,8 +10364,8 @@
 		)
 	)
 	(symbol
-		(lib_id "2024-09-06_13-56-18:2060-452_998-404")
-		(at 176.53 48.26 0)
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 181.61 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11123,7 +10373,7 @@
 		(dnp no)
 		(uuid "fd4f3b7b-5e7c-4417-b365-fc1b0253e1c8")
 		(property "Reference" "J10"
-			(at 187.198 51.308 0)
+			(at 180.34 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11132,7 +10382,7 @@
 			)
 		)
 		(property "Value" "M2"
-			(at 186.944 55.372 0)
+			(at 183.388 52.324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11140,28 +10390,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints:CONN2_2060-1452&slash_998-404_WAG"
-			(at 176.53 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.wago.com/global/pcb-terminal-blocks-and-pluggable-connectors/thr-terminal-block-with-push-buttons-in-tape-and-reel-packing/p/2060-1452_998-404"
-			(at 176.53 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "THR PCB TERMINAL BLOCK PUSH-BUT 4MM"
-			(at 173.99 48.26 0)
+		(property "Footprint" "footprints:691214310002"
+			(at 181.61 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11169,8 +10399,8 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "2060-1452/998-404"
-			(at 176.53 48.26 0)
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691214310002.pdf"
+			(at 181.61 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11178,8 +10408,8 @@
 				(hide yes)
 			)
 		)
-		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/wago-corporation/2060-452-998-404/15540283"
-			(at 176.53 48.26 0)
+		(property "Description" "TERM BLK 2POS SIDE ENT 3.81MM HOR"
+			(at 181.61 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11187,8 +10417,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "WAGO Corporation"
-			(at 176.53 48.26 0)
+		(property "PartNumber" "691214310002"
+			(at 181.61 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11196,8 +10426,26 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "0.157\" (4.00mm)"
-			(at 176.53 48.26 0)
+		(property "PurchaseLink" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/691214310002/11477478"
+			(at 181.61 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Würth Elektronik"
+			(at 181.61 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0.150\" (3.81mm)"
+			(at 181.61 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11210,12 +10458,6 @@
 		)
 		(pin "2"
 			(uuid "bb9905bc-0f70-4af8-bbe3-f1804234b06d")
-		)
-		(pin "3"
-			(uuid "f447a6cb-8339-4cdd-8644-16cdf7cd0435")
-		)
-		(pin "4"
-			(uuid "a8396c71-9e39-4e5d-baa9-0160e3dce040")
 		)
 		(instances
 			(project "ArchiBot"
