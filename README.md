@@ -28,7 +28,7 @@ El escudo Archi Bot se puede dividir en 5 bloques funcionales:
 - Araña: Contiene la conexión a los servomotores y el control de un puntero láser.
 - Auto: Contiene la conexión de los motores y sus drivers, además de la conexión del sensor ultrasónico.
   
-![blockdiagram_1.4.png](./img/BlockDiagram_1.4.png)
+![blockdiagram_1.4.png](./img/BlockDiagram_1.4.PNG)
 
 
 ## Fuente de alimentación
