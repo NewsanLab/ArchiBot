@@ -2,7 +2,9 @@
 Archi Bot es un escudo diseñado para controlar 10 servos o 4 motores y 6 servos. Además, cuenta con conexión para un módulo Bluetooth HC-05, un sensor ultrasónico HC-SR04, y un puntero láser. Puede conectarse a baterías de 5V a 12V.
 Es el escudo ideal para armar un auto o una araña robotica.
 
-![Recurso 9@0 5x](https://github.com/user-attachments/assets/004621d1-a1cf-4864-bf29-507cd4686434)
+![BoardRenderFront_1.4.png](./img/BoardRenderFront_1.4.png)
+
+![BoardRenderBack_1.4.png](./img/BoardRenderBack_1.4.png)
 
 ## Especificaciones
 - Voltaje de entrada de batería: 5V a 13V
@@ -26,13 +28,13 @@ El escudo Archi Bot se puede dividir en 5 bloques funcionales:
 - Araña: Contiene la conexión a los servomotores y el control de un puntero láser.
 - Auto: Contiene la conexión de los motores y sus drivers, además de la conexión del sensor ultrasónico.
   
-![blockdiagram_1.1.png](./img/BlockDiagram_1.1.png)
+![blockdiagram_1.4.png](./img/BlockDiagram_1.4.png)
 
 
 ## Fuente de alimentación
 En este bloque se organizan los voltajes de alimentación de todos los módulos. En la siguiente imagen se bosqueja esta organización.
 
-![powertree_1.1.png](./img/PowerTree_1.1.png)
+![powertree_1.4.png](./img/PowerTree_1.4.png)
 
 Archi Bot está pensado para funcionar con una batería de 5V a 13V, y está protegido ante picos de tensiones mayores. De esta manera protegemos el integrado de driver de motores (13,5V máximo de entrada) y la fuente (17V máximo de entrada). La fuente entrega 5V y hasta 3A de salida, con los cuales se alimentan principalmente la placa Archi, el módulo de Bluetooth y los servomotores. Para alimentar Archi se utilizó la entrada "VIN" y no las de 5V, para mantener la compatibilidad en caso de que se modifique en versiones futuras de Archi. Los driver de motores pueden recibir alimentación desde la misma fuente o directamente de la batería (recomendado), utilizando un jumper de selección.
 
