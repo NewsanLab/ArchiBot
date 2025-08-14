@@ -33,7 +33,7 @@ fp-info-cache
 *.cmp
 
 # Exported files
-/outputs
+*outputs
 
 # Misc
 *.log
