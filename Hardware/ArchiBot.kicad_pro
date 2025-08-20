@@ -527,15 +527,15 @@
       "plot": "outputs/plots/",
       "pos_files": "outputs/",
       "specctra_dsn": "",
-      "step": "outputs/ArchiBot_1.2.step",
+      "step": "outputs/ArchiBot_1.4_3D.step",
       "svg": "",
-      "vrml": "outputs/ArchiBot_1.2_3d.wrl"
+      "vrml": "outputs/ArchiBot_1.4_3D.wrl"
     },
     "page_layout_descr_file": "NewsanPCB.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "outputs\\ArchiBot_1.1_bom.csv",
+    "bom_export_filename": "outputs\\ArchiBot.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -554,7 +554,7 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -599,10 +599,10 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Footprint",
           "name": "Footprint",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -617,10 +617,10 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         }
       ],
       "filter_string": "",
