@@ -63,6 +63,7 @@ Archi Bot está pensado para funcionar con una batería de 5V a 13V, y está pro
 | GP17      | SRV17           | Araña     |
 | GP18      | SRV18           | Araña     |
 
+Colocando el pin de SELECT (GP10) en "0" o "false", se habilitan los motores. Seteandolo en "1" o "true", los pines 3, 4, 5 y 11 se usan como salidas para servos.
 
 ## Ejemplo de proyectos
 **4WD Rover**
